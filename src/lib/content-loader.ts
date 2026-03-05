@@ -52,7 +52,12 @@ export function loadAllChapters(): ChapterData[] {
   const errors: string[] = [];
 
   for (const file of files) {
-    const filePath = path.join(contentDir, file);
+    const filePath = path.resolve(contentDir, file);
+    // Guard against path traversal — resolved path must stay within contentDir
+    if (!filePath.startsWith(contentDir + path.sep) && filePath !== contentDir) {
+      errors.push(`${file}: path traversal detected, skipping`);
+      continue;
+    }
     const raw = fs.readFileSync(filePath, "utf-8");
     const { data, content } = matter(raw);
 

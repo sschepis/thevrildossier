@@ -29,7 +29,11 @@ const sanitizeSchema = {
  * Get the raw markdown content of a chapter file (with frontmatter stripped).
  */
 export async function getChapterContent(filename: string): Promise<string> {
-  const filePath = path.join(contentDir, filename);
+  const filePath = path.resolve(contentDir, filename);
+  // Guard against path traversal — resolved path must stay within contentDir
+  if (!filePath.startsWith(contentDir + path.sep) && filePath !== contentDir) {
+    return "";
+  }
   if (!fs.existsSync(filePath)) {
     return "";
   }

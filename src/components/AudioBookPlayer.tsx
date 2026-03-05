@@ -74,7 +74,14 @@ export default function AudioBookPlayer({ chapters }: Props) {
   useEffect(() => {
     if (audioAvailable[current?.slug]) {
       loadAudio(currentIdx);
+      // Auto-play the next track if we were already playing (e.g. auto-advance)
+      if (isPlaying && audioRef.current) {
+        audioRef.current.play().catch(() => {
+          setIsPlaying(false);
+        });
+      }
     }
+    // eslint-disable-next-line react-hooks/exhaustive-deps -- isPlaying intentionally excluded to avoid restart loops; auto-play only triggers on track change
   }, [currentIdx, loadAudio, current?.slug, audioAvailable]);
 
   // Cleanup audio element on unmount to prevent memory leaks

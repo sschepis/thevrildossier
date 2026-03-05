@@ -12,33 +12,58 @@ export default function HomePage() {
       {/* Hero */}
       <section className="relative overflow-hidden">
         <div className="absolute inset-0 bg-gradient-to-b from-gold/5 via-transparent to-transparent" />
-        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-24 sm:py-32 text-center relative">
+        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-16 sm:pt-24 pb-12 text-center relative">
           <p className="text-gold/60 text-sm font-mono uppercase tracking-[0.3em] mb-6">
-            A Comprehensive Investigation
+            A Synthesis of Sources
           </p>
-          <h1 className="text-5xl sm:text-7xl font-bold text-white tracking-tight mb-4">
+          <h1 className="text-5xl sm:text-7xl font-bold text-white tracking-tight mb-6">
             THE VRIL
             <br />
             <span className="text-gold">DOSSIER</span>
           </h1>
-          <p className="text-muted-foreground text-lg sm:text-xl max-w-2xl mx-auto mb-4 font-serif italic">
-            The Marshall Testimony and the Subterranean Hypothesis
+
+          {/* The Hook — thesis in a single glance */}
+          <p className="text-foreground text-xl sm:text-2xl max-w-3xl mx-auto mb-4 leading-snug font-semibold">
+            Epstein&apos;s tunnels. MKUltra&apos;s missing subjects. Congressional UAP hearings.
+            Underground construction with no public purpose.
           </p>
-          <div className="w-16 h-px bg-gold mx-auto my-8" />
-          <blockquote className="text-muted-foreground italic text-base max-w-lg mx-auto mb-12 font-serif">
-            &ldquo;They laughed at me when I said I just want to tell the world
-            about this. They said nobody&apos;s ever going to believe me. You
-            won&apos;t put it together in an eloquent way.&rdquo;
-            <footer className="mt-2 text-sm text-muted not-italic">
-              — Donald Marshall
-            </footer>
-          </blockquote>
-          <div className="flex flex-col sm:flex-row gap-4 justify-center">
+          <p className="text-gold text-lg sm:text-xl max-w-2xl mx-auto mb-4 font-serif italic">
+            What if they&apos;re all connected — and the connection has a name?
+          </p>
+          <p className="text-muted-foreground text-base sm:text-lg max-w-2xl mx-auto mb-8">
+            This book collects whistleblower testimony, declassified intelligence files,
+            court&nbsp;documents, peer-reviewed geology, and investigative journalism
+            into a single, falsifiable hypothesis.
+          </p>
+
+          {/* Source strip — what the synthesis draws from */}
+          <div className="grid grid-cols-2 sm:grid-cols-5 gap-3 max-w-3xl mx-auto mb-10">
+            {[
+              { label: "Flight Logs", sub: "Epstein network" },
+              { label: "CIA Archives", sub: "MKUltra files" },
+              { label: "Geology", sub: "Peer-reviewed" },
+              { label: "Congress", sub: "UAP hearings" },
+              { label: "Court Records", sub: "Sealed & unsealed" },
+            ].map((s) => (
+              <div key={s.label} className="bg-card/60 border border-border/50 rounded-lg px-3 py-2">
+                <div className="text-foreground text-sm font-semibold">{s.label}</div>
+                <div className="text-muted text-xs font-mono">{s.sub}</div>
+              </div>
+            ))}
+          </div>
+
+          <div className="flex flex-col sm:flex-row gap-4 justify-center mb-10">
             <Link
               href="/read/frontmatter"
-              className="inline-flex items-center justify-center px-8 py-3 bg-gold text-background font-semibold rounded-lg hover:bg-gold-dim transition-colors"
+              className="inline-flex items-center justify-center px-8 py-3 bg-gold text-background font-semibold rounded-lg hover:bg-gold-dim transition-colors text-lg"
             >
-              Read Now
+              Start Reading — Free
+            </Link>
+            <Link
+              href="/download"
+              className="inline-flex items-center justify-center px-8 py-3 border border-border text-foreground font-semibold rounded-lg hover:bg-card transition-colors"
+            >
+              📥 Download PDF
             </Link>
             <Link
               href="/listen"
@@ -46,13 +71,15 @@ export default function HomePage() {
             >
               🎧 Listen
             </Link>
-            <Link
-              href="/download"
-              className="inline-flex items-center justify-center px-8 py-3 border border-border text-foreground font-semibold rounded-lg hover:bg-card transition-colors"
-            >
-              📥 Download
-            </Link>
           </div>
+
+          <blockquote className="text-muted-foreground italic text-base max-w-lg mx-auto font-serif border-l-2 border-gold/30 pl-4 text-left">
+            &ldquo;They laughed at me when I said I just want to tell the world
+            about this. They said nobody&apos;s ever going to believe me.&rdquo;
+            <footer className="mt-2 text-sm text-muted not-italic">
+              — Donald Marshall
+            </footer>
+          </blockquote>
         </div>
       </section>
 
@@ -118,30 +145,36 @@ export default function HomePage() {
       <section className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
         <div className="bg-card border border-border rounded-xl p-8 sm:p-12">
           <h2 className="text-2xl font-bold text-white mb-6">
-            What This Book Is
+            A Synthesis, Not a Manifesto
           </h2>
           <div className="space-y-4 text-muted-foreground leading-relaxed font-serif">
             <p>
-              This book presents the testimony of Donald Marshall alongside
-              verifiable public records, peer-reviewed science, court documents,
-              declassified intelligence files, and mainstream investigative
-              journalism.
+              This book does not ask you to believe. It collects testimony from
+              multiple independent whistleblowers, then cross-references every
+              verifiable claim against the public record: declassified CIA files,
+              Epstein flight logs, peer-reviewed geological surveys, congressional
+              UAP hearings, sealed and unsealed court documents, and mainstream
+              investigative journalism.
             </p>
-            <p>The reader is invited to evaluate three things:</p>
+            <p>
+              The result is a single, structured hypothesis — presented with its
+              evidence, its gaps, and its falsification criteria. The reader
+              evaluates:
+            </p>
             <ol className="list-decimal list-inside space-y-2 pl-4">
-              <li>The internal consistency of the testimony itself</li>
+              <li>Whether the sources converge or contradict</li>
               <li>
-                The degree to which verifiable evidence aligns with the claims
+                Where the documented evidence aligns with the unverifiable claims
               </li>
               <li>
-                The epistemological challenge of investigating a system that, by
-                its own description, is designed to be invisible
+                What it means when disparate investigations — Epstein, MKUltra,
+                UAP disclosure — point to the same infrastructure
               </li>
             </ol>
             <p>
               <strong className="text-gold">{chapterCount} chapters</strong> &middot;{" "}
               <strong className="text-gold">{appendixCount} appendices</strong> &middot;{" "}
-              <strong className="text-gold">{availableCount} chapters available now</strong>
+              <strong className="text-gold">{availableCount} available now</strong>
               &middot; Free to read, listen, and download.
             </p>
           </div>

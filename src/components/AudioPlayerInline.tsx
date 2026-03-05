@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useRef, useEffect } from "react";
+import { useState, useRef, useEffect, useCallback } from "react";
 
 export default function AudioPlayerInline({ slug }: { slug: string }) {
   const [isPlaying, setIsPlaying] = useState(false);
@@ -20,30 +20,40 @@ export default function AudioPlayerInline({ slug }: { slug: string }) {
       .catch(() => {});
   }, [audioSrc]);
 
+  // Stable event handlers so they can be removed cleanly
+  const handleTimeUpdate = useCallback(() => {
+    setCurrentTime(audioRef.current?.currentTime || 0);
+  }, []);
+
+  const handleLoadedMetadata = useCallback(() => {
+    setDuration(audioRef.current?.duration || 0);
+  }, []);
+
+  const handleEnded = useCallback(() => {
+    setIsPlaying(false);
+    setCurrentTime(0);
+  }, []);
+
   // Cleanup audio element on unmount to prevent leaked playback
   useEffect(() => {
     return () => {
       if (audioRef.current) {
         audioRef.current.pause();
+        audioRef.current.removeEventListener("timeupdate", handleTimeUpdate);
+        audioRef.current.removeEventListener("loadedmetadata", handleLoadedMetadata);
+        audioRef.current.removeEventListener("ended", handleEnded);
         audioRef.current.src = "";
         audioRef.current = null;
       }
     };
-  }, []);
+  }, [handleTimeUpdate, handleLoadedMetadata, handleEnded]);
 
   const togglePlay = async () => {
     if (!audioRef.current) {
       audioRef.current = new Audio(audioSrc);
-      audioRef.current.addEventListener("timeupdate", () => {
-        setCurrentTime(audioRef.current?.currentTime || 0);
-      });
-      audioRef.current.addEventListener("loadedmetadata", () => {
-        setDuration(audioRef.current?.duration || 0);
-      });
-      audioRef.current.addEventListener("ended", () => {
-        setIsPlaying(false);
-        setCurrentTime(0);
-      });
+      audioRef.current.addEventListener("timeupdate", handleTimeUpdate);
+      audioRef.current.addEventListener("loadedmetadata", handleLoadedMetadata);
+      audioRef.current.addEventListener("ended", handleEnded);
     }
 
     if (isPlaying) {
