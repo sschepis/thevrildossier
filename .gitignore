@@ -17,6 +17,9 @@
 /.next/
 /out/
 
+# generated build artifacts
+/public/search-index.json
+
 # production
 /build
 

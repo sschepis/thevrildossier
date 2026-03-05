@@ -4,6 +4,8 @@ import { chapters, getChaptersByPart, getAvailableChapters } from "@/lib/chapter
 export default function HomePage() {
   const chaptersByPart = getChaptersByPart();
   const availableCount = getAvailableChapters().length;
+  const chapterCount = chapters.filter((c) => c.part > 0 && c.part < 8).length;
+  const appendixCount = chapters.filter((c) => c.part === 8).length;
 
   return (
     <div>
@@ -137,8 +139,8 @@ export default function HomePage() {
               </li>
             </ol>
             <p>
-              <strong className="text-gold">21 chapters</strong> &middot;{" "}
-              <strong className="text-gold">7 appendices</strong> &middot;{" "}
+              <strong className="text-gold">{chapterCount} chapters</strong> &middot;{" "}
+              <strong className="text-gold">{appendixCount} appendices</strong> &middot;{" "}
               <strong className="text-gold">{availableCount} chapters available now</strong>
               &middot; Free to read, listen, and download.
             </p>

@@ -64,12 +64,11 @@ export default function AudioBookPlayer({ chapters }: Props) {
     audio.playbackRate = speed;
     audio.addEventListener("timeupdate", handleTimeUpdate);
     audio.addEventListener("loadedmetadata", () => {
+      setCurrentTime(0);
       setDuration(audio.duration || 0);
     });
     audio.addEventListener("ended", handleEnded);
     audioRef.current = audio;
-    setCurrentTime(0);
-    setDuration(0);
   }, [chapters, speed, handleTimeUpdate, handleEnded]);
 
   useEffect(() => {

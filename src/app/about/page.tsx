@@ -45,7 +45,7 @@ export default function AboutPage() {
         </p>
 
         <h2>Structure</h2>
-        <p>The book is organized into six parts:</p>
+        <p>The book is organized into seven parts:</p>
         <ul>
           <li>
             <strong>Part I: The Premise and the Witness</strong> — Donald
@@ -71,6 +71,11 @@ export default function AboutPage() {
           <li>
             <strong>Part VI: Synthesis and Implications</strong> — The unified
             map, epistemological questions, and final implications
+          </li>
+          <li>
+            <strong>Part VII: The Divine Defense and Ancient War</strong> — The
+            divine shield, the Amun Protocol, Atlantis, the Vatican connection,
+            and the cosmological foundation
           </li>
         </ul>
 
