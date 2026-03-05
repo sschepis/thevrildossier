@@ -1,0 +1,108 @@
+---
+number: 33
+slug: "appendix-h-glossary"
+title: "Glossary of Terms"
+subtitle: "Appendix H"
+part: 8
+partTitle: "Appendices"
+epigraph: ""
+tags:
+  - "glossary"
+  - "reference"
+  - "terminology"
+---
+# Appendix H
+
+# Glossary of Terms
+
+---
+
+*Derived from the comprehensive glossary in "The Vril: Full Disclosure, Part 2" (dmho.txt), supplemented with terminology from "The Vril Dossier." Each entry provides the conventional definition followed by the operational definition within the Vril framework.*
+
+---
+
+**9/11 Attacks** — *Conventional*: The September 11, 2001 terrorist attacks on the World Trade Center and Pentagon. *Framework*: A psychological operation conducted by elements within the power structure documented in this book, designed to generate the political conditions for expanded surveillance and military deployment.
+
+**13 Illuminati Bloodline Families** — *Conventional*: A conspiracy theory concept. *Framework*: The thirteen multigenerational human lineages that serve as the management layer of the Vril system: Astor, Bundy, Collins, DuPont, Freeman, Kennedy, Li, Onassis, Reynolds, Rockefeller, Rothschild, Russell, Van Duyn. Documented in Chapter 9.
+
+**32nd/33rd Degree Freemasonry** — *Conventional*: The highest degrees in Scottish Rite Freemasonry, attainable by invitation. *Framework*: The level of Masonic initiation at which knowledge of the Vril and the cloning station infrastructure is disclosed to the initiate. Below this level, Freemasonry operates as a fraternal organization; at and above it, members are inducted into the operational system.
+
+**Akh** — *Conventional*: In Egyptian theology, the transfigured spirit—the highest state of the afterlife, representing luminous, indestructible consciousness. *Framework*: The state of consciousness that cannot be parasitized—the condition that the mystery schools were designed to cultivate and that the Avatar (Jesus) embodied. Documented in Chapter 23.
+
+**Amon Ra / Amun-Ra** — *Conventional*: The supreme deity of ancient Egyptian religion, combining Amun ("the Hidden One") with Ra (the sun god). *Framework*: A specific parasitic entity occupying a niche in the local environment, served by the Amun priesthood and identified in the source as operating at the apex of the control hierarchy. Not a "technological alien" but a terrestrial/interdimensional parasite. Documented in Chapter 23.
+
+**Ankh** — *Conventional*: Ancient Egyptian hieroglyphic symbol meaning "life" or "key of life." *Framework*: A tool used in the droning process to extract and replace the eyeball during proboscis insertion. Documented in Chapter 16.
+
+**Antarctica** — *Conventional*: The southernmost continent, largely covered by ice. *Framework*: Location of Atlantean underground infrastructure rediscovered by the Nazi expedition; connected to the Thule Society's inner-earth exploration program. Documented in Chapter 24.
+
+**Atlantis** — *Conventional*: A legendary island civilization described by Plato in the *Timaeus* and *Critias* (c. 360 BC). *Framework*: A historical advanced civilization destroyed circa 9600 BC, representing the First Reset. Survivors carried defensive knowledge to the Nile Valley. Documented in Chapter 24.
+
+**Avatar** — *Conventional*: In Hinduism, an incarnation of a deity in human form. *Framework*: An incarnation of the Singularity born as a direct response to the prayers of an enslaved humanity. Jesus of Nazareth was an Avatar whose presence functioned as an antiseptic against Vril. Documented in Chapters 22 and 23.
+
+**Black Eye Club** — *Conventional*: An informal term for the pattern of prominent public figures photographed with unexplained left-eye bruising. *Framework*: Evidence of recent droning—the bruising results from proboscis insertion through the left eye socket. Documented in Appendix B.
+
+**Black Sun** — *Conventional*: A symbol associated with Nazi occultism, depicted in the mosaic at Wewelsburg Castle. *Framework*: A Vril Society symbol encoding knowledge of the subterranean energy source that sustains the Vril species.
+
+**Bloodline Families** — See *13 Illuminati Bloodline Families*.
+
+**Bovril** — *Conventional*: A British food product made from concentrated beef extract, produced since 1886. *Framework*: A product made from boiled blood, named by combining "bo" (ox) with "Vril" (from Bulwer-Lytton's novel about subterranean beings), endorsed by Pope Leo XIII circa 1900. Documented in Chapter 16.
+
+**Brotherhood of the Snake** — *Conventional*: One of the oldest secret society concepts in esoteric literature, traced to ancient Sumeria. *Framework*: An organization originally founded by humans in contact with the Vril species, whose serpentine symbolism is literal rather than metaphorical. The original teaching order was corrupted and inverted to serve the Vril.
+
+**Chupacabra** — *Conventional*: A cryptid associated with livestock exsanguination, first reported in Puerto Rico in 1995. *Framework*: A Vril type 1 that has surfaced from underground, identified by Marshall as the source of chupacabra sightings. Documented in Chapter 2.
+
+**Cloning Station** — *Conventional*: N/A. *Framework*: An above-ground facility in western Canada where REM-driven clone bodies are activated nightly for elite gatherings. The primary meeting place for global political, financial, and entertainment leadership. Documented in Chapters 4, 5, 8, and 9.
+
+**Consciousness Transfer** — *Conventional*: A speculative technology discussed in transhumanism and science fiction. *Framework*: An operational technology that transfers human consciousness into a clone body during REM sleep, and that enables the Vril type 1 parasitic takeover of human hosts. Documented in Chapters 3 and 4.
+
+**Damnatio Memoriae** — *Conventional*: The condemnation of memory—the systematic erasure of a person from historical records, practiced in ancient Rome and Egypt. *Framework*: The standard operational protocol for neutralizing a disclosure event. Applied to Akhenaten after his rebellion against the Amun Protocol. Documented in Chapter 23.
+
+**Drone** — *Conventional*: An unmanned aerial vehicle. *Framework*: A human body that has been parasitized by a Vril type 1—the original consciousness has been destroyed and replaced by Vril type 1 reptile consciousness. The drone retains the host's memories and physical appearance but is cognitively inferior to the original. Documented in Chapters 2 and 3.
+
+**Droning** — *Conventional*: N/A. *Framework*: The process by which a Vril type 1 inserts its proboscis into a human host's eye socket, penetrates the brain, and transfers its consciousness into the host body, permanently destroying the original human consciousness. Documented in Chapter 3.
+
+**Emerald Tablets** — *Conventional*: A Hermetic text attributed to Hermes Trismegistus/Thoth, of disputed origin and dating. *Framework*: An ancient text containing accurate descriptions of Vril entities, the droning process, and the Akh defense. The descriptions are real; the institution that claimed to preserve them was corrupted. Documented in Chapter 23.
+
+**Eye of Horus / Eye of Ra** — *Conventional*: Ancient Egyptian symbols associated with protection and royal power. *Framework*: Representations of the droning process from different perspectives—the parasitic takeover (Ra) and the host consciousness (Horus). Documented in Chapter 16.
+
+**Luciferian Edicts** — *Conventional*: N/A. *Framework*: The three behavioral requirements imposed on bloodline family members: "Inbreeding makes you strong. Pedophilia keeps you young. Helping lizards gives you good luck from the devil." Documented in Chapters 9 and 13.
+
+**Mark I–IV Cloning** — *Conventional*: N/A. *Framework*: The four types of cloning technology described by Marshall, ranging from basic physical duplication (Mark I) to REM-driven consciousness transfer into pre-grown clone bodies (Mark IV). Documented in Chapter 4.
+
+**Megadeth** — *Conventional*: An American thrash metal band formed in 1983. *Framework*: A deterrent method involving trapping consciousness in an infinite loop of death and resurrection through repeated clone activation and destruction. "Death upon death, upon death, as reanimated clone versions." Documented in Chapter 10.
+
+**Mud Flood** — See *Tartarian Reset*.
+
+**Obelisk** — *Conventional*: A tall, four-sided stone pillar topped with a pyramidion, common in Egyptian architecture. *Framework*: A representation of the Vril type 1 proboscis. When placed within a circular enclosure (as at St. Peter's Square), represents the droning ceremony viewed from above. Documented in Chapters 16 and 25.
+
+**Proboscis** — *Conventional*: An elongated appendage from the head of an animal, used for feeding. *Framework*: The retractable biological apparatus located at the top of the Vril type 1's head, used for the parasitic consciousness-transfer process. Described as looking "like a chocolate chip" when retracted. Also called the "quill." Documented in Chapters 2 and 3.
+
+**REM Sleep** — *Conventional*: Rapid Eye Movement sleep, the phase of sleep associated with dreaming. *Framework*: The sleep phase during which consciousness transfer to clone bodies occurs. Individuals are activated as clones during their REM sleep, experiencing the cloning station as a vivid "dream." Documented in Chapter 4.
+
+**Sarcophagus** — *Conventional*: A stone coffin used in ancient Egyptian burial practices. *Framework*: A container designed to prevent Vril type 1 from accessing dead bodies for feeding or droning.
+
+**Selling Your Soul** — *Conventional*: A metaphor for compromising integrity for material gain. *Framework*: The literal act of signing a contract at the cloning station—committing one's consciousness to permanent clone availability in exchange for career promotion. Documented in Chapter 8.
+
+**Sweating the Quill** — *Conventional*: N/A. *Framework*: The visible secretion from the proboscis/quill prior to the droning process—an observable physiological sign that a Vril type 1 is preparing for parasitic attachment. Documented in Chapter 3.
+
+**Tartarian Reset** — *Conventional*: A fringe historical hypothesis proposing a recent global catastrophe that buried an advanced civilization. *Framework*: The Second Reset (18th–19th century), involving the destruction of a decentralized, energy-independent civilization and its replacement with centralized control systems. Documented in Chapter 11.
+
+**Thule Society** — *Conventional*: A German occultist and political organization founded in 1918, precursor to the Nazi Party. *Framework*: An organization dedicated to recovering Atlantean knowledge, including knowledge of the Vril species. Provided the organizational infrastructure for the Nazi Party. Documented in Chapters 2 and 24.
+
+**Uraeus** — *Conventional*: The rearing cobra headdress worn by Egyptian Pharaohs, symbol of divine authority. *Framework*: A symbol encoding the Vril proboscis (serpent) and the elevated intelligence achieved when Vril consciousness occupies a human host (eagle). Documented in Chapter 16.
+
+**Vril** — *Conventional*: A fictional energy force described in Edward Bulwer-Lytton's novel *The Coming Race* (1871). *Framework*: The name that the parasitic reptilian species calls itself—a word the creatures can pronounce themselves. The genus comprises three morphological types. Documented throughout.
+
+**Vril Society (Vril-Gesellschaft)** — *Conventional*: A German occult organization, possibly mythical, associated with the Thule Society. *Framework*: A real organization founded in 1919, whose female members (the "Vril ladies," including Maria Orsic) used beauty to lure victims for parasitization. Documented in Chapter 2.
+
+**Vril Type 1** — The smallest Vril type (1–1.5 feet tall), the only type capable of the parasitic "droning" process. Covered in scales (red under the British Isles, black under the Middle East). Smarter than chimpanzees but dumb compared to humans. Possess a retractable proboscis, built-in sonar, and communicate in clicks and gurgles. Documented in Chapter 2.
+
+**Vril Type 2** — The middle type. Larger and smarter than Type 1, with a visible proboscis sheath, but not capable of parasitic consciousness transfer. Less documented than Types 1 and 3. Documented in Chapter 2.
+
+**Vril Type 3** — The largest and most intelligent type (approximately 8 feet tall, long-necked). The commanding class of the species, residing at the deepest subterranean levels. Described as resembling the Kaminoans from *Star Wars: Attack of the Clones*. Controlled ancient Egypt from behind the scenes, wearing masks and robes. Documented in Chapters 2 and 23.
+
+**Wewelsburg Castle** — *Conventional*: A Renaissance castle in Westphalia, Germany, used by Heinrich Himmler as the spiritual center of the SS. *Framework*: A proposed parasitization site where droning ceremonies were conducted under the cover of SS occult rituals. Home to the Black Sun mosaic. Documented in Chapter 2.
+
+---
+
+*This glossary is a reference companion to the main text. For the full analysis of each concept, consult the chapter references indicated. For the comprehensive source glossary with ~100+ additional terms, see the source document.*
