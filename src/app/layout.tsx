@@ -33,7 +33,7 @@ export const metadata: Metadata = {
     template: "%s | The Vril Dossier",
   },
   description:
-    "A comprehensive investigation synthesizing the 2026 Epstein DOJ files, MKUltra archives, plasma physics, Quranic cosmology, and consciousness research into a single falsifiable hypothesis. Free ebook and audiobook.",
+    "A comprehensive investigation synthesizing the 2026 Epstein DOJ files, MKUltra archives, plasma physics, Biblical cosmology, and consciousness research into a single falsifiable hypothesis. Free ebook and audiobook.",
   keywords: [
     "Vril Dossier",
     "Donald Marshall",

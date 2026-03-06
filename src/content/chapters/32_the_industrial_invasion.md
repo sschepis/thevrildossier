@@ -370,4 +370,4 @@ The question is what will fill them.
 
 ---
 
-*The appendices that follow provide supporting documentation, reference material, and primary source compilations for the evidence presented throughout this book.*
+*In the next chapter, we examine the evidence for a 12,000-year electromagnetic cycle that reframes everything documented in this book — not as a static situation, but as a dynamic process approaching a specific threshold on a timeline that the observable data is converging to mark.*

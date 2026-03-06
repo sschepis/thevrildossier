@@ -101,6 +101,7 @@ This book is organized to build its case from the ground up. We begin with a man
 - Chapter 30 — The Container Problem: Lazar, Marshall, and the Convergence
 - Chapter 31 — The Resonance Space: Cloning Centers as Electromagnetic Standing Waves
 - Chapter 32 — The Industrial Invasion: Birth Rate Collapse, Manufactured Bodies, and the Endgame
+- Chapter 33 — The Great Year: The 12,000-Year Cycle and the Electromagnetic Transition
 
 **APPENDICES**
 

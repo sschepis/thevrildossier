@@ -24,7 +24,7 @@ export default function HomePage() {
 
           {/* The Hook — expanded thesis reflecting full scope */}
           <p className="text-foreground text-xl sm:text-2xl max-w-3xl mx-auto mb-4 leading-snug font-semibold">
-            3.5&nbsp;million pages of Epstein files. Plasma physics. Quranic cosmology.
+            3.5&nbsp;million pages of Epstein files. Plasma physics. Biblical cosmology.
             Birth rate collapse. Consciousness itself.
           </p>
           <p className="text-gold text-lg sm:text-xl max-w-2xl mx-auto mb-4 font-serif italic">
@@ -276,7 +276,7 @@ export default function HomePage() {
               </li>
               <li>
                 What it means when Epstein&apos;s science network, MKUltra,
-                UAP disclosure, plasma physics, Quranic cosmology, and global
+                UAP disclosure, plasma physics, Biblical cosmology, and global
                 birth rate collapse all point to the same infrastructure
               </li>
             </ol>
