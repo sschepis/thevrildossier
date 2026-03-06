@@ -4,8 +4,10 @@ import { chapters, getChaptersByPart, getAvailableChapters } from "@/lib/chapter
 export default function HomePage() {
   const chaptersByPart = getChaptersByPart();
   const availableCount = getAvailableChapters().length;
-  const chapterCount = chapters.filter((c) => c.part > 0 && c.part < 8).length;
-  const appendixCount = chapters.filter((c) => c.part === 8).length;
+  // Use number ranges (consistent with the rest of the codebase):
+  // chapters = number 1–99, appendices = number >= 100
+  const chapterCount = chapters.filter((c) => c.number > 0 && c.number < 100).length;
+  const appendixCount = chapters.filter((c) => c.number >= 100).length;
 
   return (
     <div>
