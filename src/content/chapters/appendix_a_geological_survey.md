@@ -3,7 +3,7 @@ number: 100
 slug: "appendix-a-geological-survey"
 title: "Appendix A: Geological Survey Data"
 subtitle: "Underground Infrastructure Relevant to the Vril Hypothesis"
-part: 8
+part: 10
 partTitle: "Appendices"
 tags:
   - "appendix"

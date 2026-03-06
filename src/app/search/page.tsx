@@ -111,20 +111,21 @@ function scoreChunk(chunk: SearchChunk, terms: string[]): number {
 
 export default function SearchPage() {
   const [query, setQuery] = useState("");
-  const [index, setIndex] = useState<SearchChunk[]>([]);
   const [results, setResults] = useState<SearchResult[]>([]);
   const [loading, setLoading] = useState(false);
   const [searched, setSearched] = useState(false);
   const inputRef = useRef<HTMLInputElement>(null);
+  const indexRef = useRef<SearchChunk[]>([]);
   const indexLoadedRef = useRef(false);
   const indexLoadingRef = useRef(false);
 
   /**
    * Lazy-load the search index on demand (called from doSearch).
+   * Uses a ref to avoid stale-closure issues and unnecessary callback recreation.
    * Returns a Promise that resolves with the loaded chunks.
    */
   const ensureIndex = useCallback(async (): Promise<SearchChunk[]> => {
-    if (indexLoadedRef.current) return index;
+    if (indexLoadedRef.current) return indexRef.current;
     if (indexLoadingRef.current) return []; // load in progress — skip this search cycle
 
     indexLoadingRef.current = true;
@@ -132,7 +133,7 @@ export default function SearchPage() {
     try {
       const res = await fetch("/search-index.json");
       const data: SearchChunk[] = await res.json();
-      setIndex(data);
+      indexRef.current = data;
       indexLoadedRef.current = true;
       setLoading(false);
       return data;
@@ -140,7 +141,7 @@ export default function SearchPage() {
       setLoading(false);
       return [];
     }
-  }, [index]);
+  }, []);
 
   // Focus the input on mount
   useEffect(() => {

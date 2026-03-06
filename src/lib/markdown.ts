@@ -30,8 +30,8 @@ const sanitizeSchema = {
  */
 export async function getChapterContent(filename: string): Promise<string> {
   const filePath = path.resolve(contentDir, filename);
-  // Guard against path traversal — resolved path must stay within contentDir
-  if (!filePath.startsWith(contentDir + path.sep) && filePath !== contentDir) {
+  // Guard against path traversal — resolved path must be a child of contentDir
+  if (!filePath.startsWith(contentDir + path.sep)) {
     return "";
   }
   if (!fs.existsSync(filePath)) {
@@ -43,10 +43,11 @@ export async function getChapterContent(filename: string): Promise<string> {
 }
 
 /**
- * Get the rendered HTML of a chapter file.
+ * Render raw markdown content to sanitized HTML.
+ * Use this when you already have the markdown content in memory
+ * (e.g. from content-loader) to avoid redundant file reads.
  */
-export async function getChapterHtml(filename: string): Promise<string> {
-  const raw = await getChapterContent(filename);
+export async function renderMarkdownToHtml(raw: string): Promise<string> {
   if (!raw) return "";
 
   // Pipeline order matters for security:
@@ -64,6 +65,14 @@ export async function getChapterHtml(filename: string): Promise<string> {
     .process(raw);
 
   return String(result);
+}
+
+/**
+ * Get the rendered HTML of a chapter file.
+ */
+export async function getChapterHtml(filename: string): Promise<string> {
+  const raw = await getChapterContent(filename);
+  return renderMarkdownToHtml(raw);
 }
 
 export interface TocItem {

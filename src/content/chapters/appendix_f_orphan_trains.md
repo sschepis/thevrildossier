@@ -3,7 +3,7 @@ number: 105
 slug: "appendix-f-orphan-trains"
 title: "Appendix F: Orphan Train Records"
 subtitle: "A Documentary Analysis"
-part: 8
+part: 10
 partTitle: "Appendices"
 tags:
   - "appendix"

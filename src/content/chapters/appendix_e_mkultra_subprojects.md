@@ -3,7 +3,7 @@ number: 104
 slug: "appendix-e-mkultra-subprojects"
 title: "Appendix E: MKUltra Declassified Subprojects"
 subtitle: "A Reference Guide"
-part: 8
+part: 10
 partTitle: "Appendices"
 tags:
   - "appendix"

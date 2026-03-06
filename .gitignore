@@ -19,6 +19,7 @@
 
 # generated build artifacts
 /public/search-index.json
+/public/audio-manifest.json
 
 # production
 /build

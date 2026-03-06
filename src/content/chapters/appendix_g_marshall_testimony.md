@@ -3,7 +3,7 @@ number: 106
 slug: "appendix-g-marshall-testimony"
 title: "Appendix G: Selected Marshall Testimony"
 subtitle: "Excerpts from the Recorded Testimony"
-part: 8
+part: 10
 partTitle: "Appendices"
 tags:
   - "appendix"

@@ -3,7 +3,7 @@ number: 101
 slug: "appendix-b-black-eye-club"
 title: "Appendix B: The Black Eye Club"
 subtitle: "A Photographic and Documentary Catalog"
-part: 8
+part: 10
 partTitle: "Appendices"
 tags:
   - "appendix"

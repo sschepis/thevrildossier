@@ -90,6 +90,18 @@ This book is organized to build its case from the ground up. We begin with a man
 - Chapter 25 — The Vatican Connection: The Infiltrated Church
 - Chapter 26 — The Cosmological Foundation
 
+**PART VIII: THE SCIENCE NETWORK**
+
+- Chapter 27 — The Science Network: Epstein's Research Portfolio and the Technology of Control
+- Chapter 28 — The Research Program: Testable Claims, Convergent Evidence, and the Path to Resolution
+
+**PART IX: THE DEEPER REALITY**
+
+- Chapter 29 — The Smokeless Fire: Djinn, Plasma, and the Electromagnetic Parasite
+- Chapter 30 — The Container Problem: Lazar, Marshall, and the Convergence
+- Chapter 31 — The Resonance Space: Cloning Centers as Electromagnetic Standing Waves
+- Chapter 32 — The Industrial Invasion: Birth Rate Collapse, Manufactured Bodies, and the Endgame
+
 **APPENDICES**
 
 - Appendix A — Geological Survey Data

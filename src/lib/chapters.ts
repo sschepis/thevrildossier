@@ -38,7 +38,9 @@ export const parts = [
   { number: 5, title: "The Connections" },
   { number: 6, title: "Synthesis and Implications" },
   { number: 7, title: "The Divine Defense and Ancient War" },
-  { number: 8, title: "Appendices" },
+  { number: 8, title: "The Science Network" },
+  { number: 9, title: "The Deeper Reality" },
+  { number: 10, title: "Appendices" },
 ];
 
 function toChapter(data: ChapterData): Chapter {

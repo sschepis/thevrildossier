@@ -3,7 +3,7 @@ number: 34
 slug: "appendix-i-animal-parasitization"
 title: "Animal Parasitization and the Cross-Species Question"
 subtitle: "Appendix I"
-part: 8
+part: 10
 partTitle: "Appendices"
 epigraph: ""
 tags:

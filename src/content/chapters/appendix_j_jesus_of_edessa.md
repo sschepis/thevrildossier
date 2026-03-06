@@ -3,7 +3,7 @@ number: 35
 slug: "appendix-j-jesus-of-edessa"
 title: "The Jesus of Edessa Hypothesis"
 subtitle: "Appendix J"
-part: 8
+part: 10
 partTitle: "Appendices"
 epigraph: ""
 tags:

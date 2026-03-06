@@ -26,7 +26,11 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "The Vril Dossier",
+  metadataBase: new URL("https://thevrildossier.com"),
+  title: {
+    default: "The Vril Dossier",
+    template: "%s | The Vril Dossier",
+  },
   description:
     "A Comprehensive Investigation into the Marshall Testimony and the Subterranean Hypothesis. Free ebook and audiobook.",
   keywords: [
@@ -36,13 +40,55 @@ export const metadata: Metadata = {
     "subterranean hypothesis",
     "ebook",
     "audiobook",
+    "conspiracy",
+    "truth",
+    "cloning centers",
+    "vril lizards"
   ],
+  authors: [{ name: "The Vril Dossier Team" }],
+  creator: "The Vril Dossier Team",
+  publisher: "The Vril Dossier Team",
+  formatDetection: {
+    email: false,
+    address: false,
+    telephone: false,
+  },
   openGraph: {
     title: "The Vril Dossier",
     description:
       "A Comprehensive Investigation into the Marshall Testimony and the Subterranean Hypothesis",
-    type: "book",
+    type: "website",
     siteName: "The Vril Dossier",
+    images: [
+      {
+        url: "/og-image.png",
+        width: 1200,
+        height: 630,
+        alt: "The Vril Dossier Cover Image",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "The Vril Dossier",
+    description:
+      "A Comprehensive Investigation into the Marshall Testimony and the Subterranean Hypothesis",
+    images: ["/og-image.png"],
+  },
+  icons: {
+    icon: "/favicon.ico",
+    shortcut: "/favicon.ico",
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      "max-video-preview": -1,
+      "max-image-preview": "large",
+      "max-snippet": -1,
+    },
   },
 };
 

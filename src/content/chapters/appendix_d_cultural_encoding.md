@@ -3,7 +3,7 @@ number: 103
 slug: "appendix-d-cultural-encoding"
 title: "Appendix D: Cultural Encoding Timeline"
 subtitle: "A Chronological Catalog of Media Parallels"
-part: 8
+part: 10
 partTitle: "Appendices"
 tags:
   - "appendix"

@@ -3,7 +3,7 @@ number: 33
 slug: "appendix-h-glossary"
 title: "Glossary of Terms"
 subtitle: "Appendix H"
-part: 8
+part: 10
 partTitle: "Appendices"
 epigraph: ""
 tags:

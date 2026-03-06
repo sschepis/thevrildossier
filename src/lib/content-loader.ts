@@ -53,8 +53,8 @@ export function loadAllChapters(): ChapterData[] {
 
   for (const file of files) {
     const filePath = path.resolve(contentDir, file);
-    // Guard against path traversal — resolved path must stay within contentDir
-    if (!filePath.startsWith(contentDir + path.sep) && filePath !== contentDir) {
+    // Guard against path traversal — resolved path must be a child of contentDir
+    if (!filePath.startsWith(contentDir + path.sep)) {
       errors.push(`${file}: path traversal detected, skipping`);
       continue;
     }

@@ -18,21 +18,25 @@ export default function AudioBookPlayer({ chapters }: Props) {
 
   const current = chapters[currentIdx];
 
-  // Check which audio files exist
+  // Load audio availability from a pre-built manifest (single request)
+  // instead of firing N parallel HEAD requests per chapter.
   useEffect(() => {
-    const checks: Promise<[string, boolean]>[] = chapters.map(async (ch) => {
-      try {
-        const res = await fetch(`/audio/${ch.slug}.mp3`, { method: "HEAD" });
-        return [ch.slug, res.ok] as [string, boolean];
-      } catch {
-        return [ch.slug, false] as [string, boolean];
-      }
-    });
-    Promise.all(checks).then((results) => {
-      const avail: Record<string, boolean> = {};
-      for (const [slug, ok] of results) avail[slug] = ok;
-      setAudioAvailable(avail);
-    });
+    fetch("/audio-manifest.json")
+      .then((res) => res.json())
+      .then((slugs: string[]) => {
+        const avail: Record<string, boolean> = {};
+        const slugSet = new Set(slugs);
+        for (const ch of chapters) {
+          avail[ch.slug] = slugSet.has(ch.slug);
+        }
+        setAudioAvailable(avail);
+      })
+      .catch(() => {
+        // Manifest not available — fall back to assuming no audio
+        const avail: Record<string, boolean> = {};
+        for (const ch of chapters) avail[ch.slug] = false;
+        setAudioAvailable(avail);
+      });
   }, [chapters]);
 
   const handleTimeUpdate = useCallback(() => {

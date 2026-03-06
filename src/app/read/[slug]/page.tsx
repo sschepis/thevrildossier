@@ -7,9 +7,9 @@ import {
   getPrevChapter,
   chapters,
 } from "@/lib/chapters";
+import { loadChapter } from "@/lib/content-loader";
 import {
-  getChapterHtml,
-  getChapterContent,
+  renderMarkdownToHtml,
   extractToc,
   estimateReadingTime,
 } from "@/lib/markdown";
@@ -46,8 +46,10 @@ export default async function ChapterPage({ params }: PageProps) {
     notFound();
   }
 
-  const html = await getChapterHtml(chapter.file);
-  const rawContent = await getChapterContent(chapter.file);
+  // Load content once from the cached content-loader (avoids double file read)
+  const chapterData = loadChapter(slug);
+  const rawContent = chapterData?.content || "";
+  const html = await renderMarkdownToHtml(rawContent);
   const toc = extractToc(html);
   const readingTime = estimateReadingTime(rawContent);
   const prev = getPrevChapter(slug);
