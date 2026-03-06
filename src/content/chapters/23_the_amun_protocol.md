@@ -36,7 +36,7 @@ He renamed himself **Akhenaten**—"Effective Spirit of the Aten."
 
 The word *Akh* in Egyptian theology carried a specific meaning that is lost in most modern translations. The *Akh* was not simply a "spirit." It was a *transfigured consciousness*—a being that had achieved transmutation into luminous, indestructible awareness. It was the highest state of being in the Egyptian afterlife taxonomy, above the *Ka* (life force) and the *Ba* (personality). The *Akh* was consciousness that had become *light itself*.
 
-Akhenaten's name was not merely a change of allegiance from one god to another. It was a thesis: true divinity is the visible, radiant sun—the Aten—and the proper destiny of human consciousness is to become *Akh*, luminous and invulnerable. Not to be consumed. Not to be parasitized. Not to serve something that hides underground and wears a mask.
+Akhenaten's name was not merely a change of allegiance from one god to another. It was a thesis: true divinity is the visible, radiant sun—the Aten—and the proper destiny of human consciousness is to become *Akh*, luminous and invulnerable — free from consumption, free from parasitization, free from servitude to something that hides underground and wears a mask.
 
 To understand why this name change triggered the most comprehensive erasure campaign in ancient history, we must first understand what he was rejecting.
 
@@ -147,7 +147,7 @@ In the language of the Vril framework: Akhenaten replaced a religion that served
 
 The concept of *Akh*—transmutation into luminous, indestructible consciousness—was Akhenaten's counter-thesis to droning. If droning is the destruction of human consciousness through parasitic takeover, the *Akh* is its opposite: the elevation of consciousness to an invulnerable state.
 
-His name was his argument: **Akh-en-Aten**—the effective spirit achieved through the Aten. Not through Amun. Not through the rituals of the hidden priesthood. Through light.
+His name was his argument: **Akh-en-Aten**—the effective spirit achieved through the Aten, bypassing Amun entirely, bypassing the rituals of the hidden priesthood. Through light.
 
 ---
 
@@ -257,7 +257,7 @@ The mystery schools that carried the original teaching from Atlantis were captur
 
 The ancient world had the correct descriptions—the Emerald Tablets describe the Vril with precision, and the concept of *Akh* correctly identifies the invulnerable state of consciousness. But the ancient world could not protect the *transmission path*. The teaching was real. The institutions that claimed to carry it were corrupted. The Hermetic tradition, for all the accuracy of its original content, became in practice a servant of the demiurge—the very force it purported to oppose.
 
-Something else was needed. Not a better institution. Not a better school. Not a reform. Something that could not be institutionalized, could not be captured, could not be corrupted—because it was not a system at all.
+Something else was needed — something beyond a better institution, beyond a better school, beyond any reform. Something that could not be institutionalized, could not be captured, could not be corrupted—because it was not a system at all.
 
 ### The Bridge
 
@@ -289,7 +289,7 @@ His actions were operationally specific and directly relevant to the framework e
 
 Jesus was the first Liberator of humanity as far as humans could remember.
 
-Not the first teacher. There had been many teachers. Not the first reformer. Akhenaten had been a reformer. Not the first person to identify the problem. The Emerald Tablets had identified the problem with disturbing precision. But the first person who *was* the solution—who did not merely point toward the uncorrupted truth but *was* the uncorrupted truth, in his person, in his body, in his consciousness.
+He was neither the first teacher — there had been many teachers — nor the first reformer, for Akhenaten had been a reformer, nor the first to identify the problem, which the Emerald Tablets had done with disturbing precision. He was the first person who *was* the solution—who did not merely point toward the uncorrupted truth but *was* the uncorrupted truth, in his person, in his body, in his consciousness.
 
 The Hermetic tradition had described the bridge between human and divine as a philosophical concept—something to be achieved through practice, through initiation, through the accumulation of esoteric knowledge. Jesus demonstrated that the bridge is not a concept. It is a relationship. It is direct, personal, unmediated contact with the Divine—the same contact that the ancient Atlanteans had enjoyed before the fall, the same protective proximity that had once made the Vril irrelevant.
 
@@ -299,7 +299,7 @@ The Vril destroy consciousness. The *Akh* is consciousness that cannot be destro
 
 The institutions that formed after him were corrupted, as every institution is corrupted. The Church accumulated power and was infiltrated. This was inevitable. But the bridge itself—the direct, personal, unmediated connection to the Divine that Jesus demonstrated and transmitted—cannot be corrupted, because it does not reside in any institution. It resides in the individual human being who, in genuine faith, reaches for God and finds God reaching back.
 
-This is what survived. Not a tradition. Not a lineage. Not a school. A relationship. The one thing the Vril cannot counterfeit, cannot infiltrate, and cannot destroy.
+What survived was neither tradition nor lineage nor school. It was a relationship — the one thing the Vril cannot counterfeit, cannot infiltrate, and cannot destroy.
 
 ---
 

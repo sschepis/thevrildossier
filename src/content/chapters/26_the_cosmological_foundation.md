@@ -154,7 +154,7 @@ This process is called the **coherent integral**.
 
 When completed, the coherent integral process restructures the seemingly-separate conscious field-projection into a fully-coherent, scale-invariant holographic expression of Source. The individual does not "merge" with God in the sense of losing individuality. Rather, the individual becomes a holographic integral of Source—a complete expression of the whole at the scale of the individual. Just as every portion of a hologram contains the complete image, every coherent integral contains the complete expression of Source.
 
-This is what the book has been describing as "reunification with God." Not subordination. Not absorption. Not the evaporation of the self into a cosmic ocean. The transformation of the apparently-separate individual into a fully-coherent expression of the whole—aware of itself as both individual and Source simultaneously.
+This is what the book has been describing as "reunification with God." The process is neither subordination nor absorption nor the evaporation of the self into a cosmic ocean. It is the transformation of the apparently-separate individual into a fully-coherent expression of the whole—aware of itself as both individual and Source simultaneously.
 
 The process is available to all perceptual vehicles. None who yearn earnestly are left behind.
 
@@ -192,7 +192,7 @@ In this model, the individual is a full creative participant in the process of t
 
 When this framework is genuinely adopted—not as an idea, but as a lived reality—the universe transforms. What appeared to be a cold, Darwinian mechanism of survival becomes vibrant and alive with Consciousness, creative force, and fundamental goodness. Not because the universe changed, but because the perceiver's aperture widened to see what was always there.
 
-This is the defense at the deepest level. Not invocation as a ritual. Not prayer as a petition. Not Christianity as a membership. The defense is the direct, living recoherence of the individual perceptual vehicle with Source—a process that makes the individual structurally incompatible with parasitic occupation.
+This is the defense at the deepest level — beyond invocation as ritual, beyond prayer as petition, beyond Christianity as membership. The defense is the direct, living recoherence of the individual perceptual vehicle with Source—a process that makes the individual structurally incompatible with parasitic occupation.
 
 A coherent integral cannot be droned. Not because it has a magical shield, but because the parasitic mechanism requires a perceptual vehicle that is operating in separation-consciousness. A vehicle that has recoherent with Source is no longer a suitable host. The parasite cannot attach because the architecture it needs to exploit—the gap between the individual and Source—no longer exists.
 

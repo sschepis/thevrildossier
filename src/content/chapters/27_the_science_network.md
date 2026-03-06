@@ -69,7 +69,7 @@ These seven topics, taken at face value, describe the research portfolio of an e
 | Mathematics | Computational modeling of consciousness, simulation | Ch. 26 |
 | Political Power | Institutional capture, compromised leadership, blackmail | Ch. 9, 14, 15 |
 
-Every item on the list maps. Not some. Not most. *Every single one*.
+Every item on the list maps—without exception, without remainder. *Every single one*.
 
 ---
 

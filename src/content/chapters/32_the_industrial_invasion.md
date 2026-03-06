@@ -26,7 +26,7 @@ tags:
 
 ## The Collapse
 
-The total fertility rate (TFR) of the human species is falling. Not gradually. Not cyclically. Exponentially.
+The total fertility rate (TFR) of the human species is falling — and the decline is neither gradual nor cyclical. It is exponential.
 
 Replacement-level fertility — the rate at which a population sustains itself without immigration — is 2.1 children per woman. Below this level, the population contracts.
 
@@ -297,7 +297,7 @@ In the current political discourse, "replacement theory" is considered a fringe 
 
 If natural reproduction is systematically undermined, and manufactured reproduction is systematically enabled, and the consciousness that enters manufactured bodies is not naturally generated but externally directed — then the human species as it currently exists is being replaced.
 
-Not replaced by another human race. Not replaced by robots. Replaced by the same biological form — the same DNA, the same body, the same outward appearance — but with a different consciousness operating the hardware.
+The replacement is neither by another human race nor by robots. It is replacement by the same biological form — the same DNA, the same body, the same outward appearance — but with a different consciousness operating the hardware.
 
 The species never notices because the containers look the same. The skin, the bones, the faces, the voices — all human. The thing *inside* is different. But since our civilization has decided (under the influence of materialist epistemology) that consciousness doesn't matter — that the body is the person — nobody checks what's inside.
 
