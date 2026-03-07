@@ -66,21 +66,14 @@ export const metadata: Metadata = {
       "A Comprehensive Investigation into the Marshall Testimony and the Subterranean Hypothesis",
     type: "website",
     siteName: "The Vril Dossier",
-    images: [
-      {
-        url: "/og-image.png",
-        width: 1200,
-        height: 630,
-        alt: "The Vril Dossier Cover Image",
-      },
-    ],
+    // Images auto-discovered from src/app/opengraph-image.png by Next.js App Router
   },
   twitter: {
     card: "summary_large_image",
     title: "The Vril Dossier",
     description:
       "A Comprehensive Investigation into the Marshall Testimony and the Subterranean Hypothesis",
-    images: ["/og-image.png"],
+    // Image auto-discovered from src/app/twitter-image.png by Next.js App Router
   },
   icons: {
     icon: "/favicon.ico",

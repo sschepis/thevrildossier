@@ -2,23 +2,19 @@
 
 import { useState, useRef, useEffect, useCallback } from "react";
 
-export default function AudioPlayerInline({ slug }: { slug: string }) {
+interface Props {
+  slug: string;
+  /** Whether audio is available — determined at build time by the server component. */
+  hasAudio?: boolean;
+}
+
+export default function AudioPlayerInline({ slug, hasAudio = false }: Props) {
   const [isPlaying, setIsPlaying] = useState(false);
-  const [hasAudio, setHasAudio] = useState(false);
   const [currentTime, setCurrentTime] = useState(0);
   const [duration, setDuration] = useState(0);
   const audioRef = useRef<HTMLAudioElement | null>(null);
 
   const audioSrc = `/audio/${slug}.mp3`;
-
-  useEffect(() => {
-    // Check if audio file exists
-    fetch(audioSrc, { method: "HEAD" })
-      .then((res) => {
-        if (res.ok) setHasAudio(true);
-      })
-      .catch(() => {});
-  }, [audioSrc]);
 
   // Stable event handlers so they can be removed cleanly
   const handleTimeUpdate = useCallback(() => {

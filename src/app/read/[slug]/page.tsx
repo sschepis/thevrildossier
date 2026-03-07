@@ -1,3 +1,5 @@
+import fs from "fs";
+import path from "path";
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import type { Metadata } from "next";
@@ -56,6 +58,11 @@ export default async function ChapterPage({ params }: PageProps) {
   const next = getNextChapter(slug);
   const nextAvailable = next && next.file !== "" ? next : undefined;
 
+  // Check audio availability at build time to avoid client-side HEAD requests
+  const hasAudio = fs.existsSync(
+    path.join(process.cwd(), "public", "audio", `${slug}.mp3`)
+  );
+
   return (
     <>
       <ReadingProgress />
@@ -89,7 +96,7 @@ export default async function ChapterPage({ params }: PageProps) {
           <div className="flex items-center gap-4 text-sm text-muted-foreground">
             <span>{readingTime} min read</span>
             <span className="text-border">·</span>
-            <AudioPlayerInline slug={slug} />
+            <AudioPlayerInline slug={slug} hasAudio={hasAudio} />
           </div>
 
           {chapter.epigraph && (

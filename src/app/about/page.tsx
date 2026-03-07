@@ -45,7 +45,7 @@ export default function AboutPage() {
         </p>
 
         <h2>Structure</h2>
-        <p>The book is organized into seven parts:</p>
+        <p>The book is organized into ten parts:</p>
         <ul>
           <li>
             <strong>Part I: The Premise and the Witness</strong> — Donald
@@ -76,6 +76,22 @@ export default function AboutPage() {
             <strong>Part VII: The Divine Defense and Ancient War</strong> — The
             divine shield, the Amun Protocol, Atlantis, the Vatican connection,
             and the cosmological foundation
+          </li>
+          <li>
+            <strong>Part VIII: The Science Network</strong> — The 2026 Epstein
+            DOJ files, the science network behind the trafficking, and the
+            research program
+          </li>
+          <li>
+            <strong>Part IX: The Deeper Reality</strong> — Smokeless fire,
+            the container problem, the resonance space, the industrial
+            invasion, and the Great Year
+          </li>
+          <li>
+            <strong>Part X: Appendices</strong> — Geological survey data,
+            the Black Eye Club, Epstein network maps, cultural encoding
+            timeline, MKUltra subprojects, orphan train records, Marshall
+            testimony extracts, glossary, and additional reference material
           </li>
         </ul>
 
