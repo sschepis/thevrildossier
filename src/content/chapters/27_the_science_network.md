@@ -1,22 +1,3 @@
----
-number: 27
-slug: "the-science-network"
-title: "The Science Network"
-subtitle: "Chapter 27"
-part: 8
-partTitle: "The Evidence Converges"
-epigraph: "If Jeffrey Epstein were building a ranch for conventional purposes, why would the geological conditions of the subsurface matter?"
-tags:
-  - "epstein"
-  - "doj-files"
-  - "science-network"
-  - "cloning"
-  - "consciousness"
-  - "zorro-ranch"
-  - "underground"
-  - "genetics"
-  - "transhumanism"
----
 # Chapter 27
 
 # The Science Network: What 3.5 Million Pages Reveal
@@ -274,6 +255,7 @@ Chapter 15 described Epstein's scientific interests as "a requirements document 
 - Nine years of tunnel construction at Little Saint James
 - Properties in geologically significant locations
 - Never forensically searched by law enforcement
+- Phil Schneider's 1995 testimony: 129+ DUMBs in the U.S. alone, each costing $17–19 billion, funded by a black budget consuming 25% of GNP—entirely outside Congressional oversight. Schneider was murdered seven months after beginning his lecture tour (Chapter 5, Appendix M)
 
 **Requirement 6: Institutional Control**
 - "Political Power" as an explicit research topic

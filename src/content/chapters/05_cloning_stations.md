@@ -1,18 +1,3 @@
----
-number: 5
-slug: "cloning-stations"
-title: "The Cloning Stations: Geography and Architecture"
-subtitle: "Chapter 5"
-part: 2
-partTitle: "The Infrastructure"
-epigraph: "The cloning station is like a small sports venue, like a dog and pony show."
-tags:
-  - "cloning-stations"
-  - "underground"
-  - "geography"
-  - "architecture"
-  - "dumbs"
----
 # Chapter 5
 
 # The Cloning Stations: Geography and Architecture
@@ -77,9 +62,31 @@ The Dulce Base—alleged to exist beneath Archuleta Mesa near the town of Dulce,
 
 Bennewitz's claims were investigated by the Air Force Office of Special Investigations (AFOSI), which concluded that Bennewitz was observing classified activities at nearby Kirtland Air Force Base and Sandia National Laboratories—not alien communications. However, AFOSI agent Richard Doty later admitted to deliberately feeding Bennewitz disinformation about aliens as part of a counterintelligence operation to discredit him and divert attention from classified programs. Bennewitz subsequently suffered a mental breakdown.
 
-The Dulce narrative was elaborated by Phil Schneider, a man claiming to be a geologist and structural engineer who said he had worked on government underground construction projects. Schneider claimed that in 1979, during the drilling of tunnels beneath Dulce, his team broke into an existing cavern containing "gray aliens" and that a firefight ensued, killing 60 military personnel. Schneider began giving public lectures about underground bases in 1995. In January 1996, he was found dead in his apartment with a rubber hose wrapped around his neck, officially ruled a suicide. His ex-wife and supporters disputed this finding, noting that Schneider had repeatedly stated that if he were found dead, it would not be by his own hand.
+### Phil Schneider: The Man Who Drilled Into Their World
 
-Thomas Edwin Castello, who claimed to be a former security officer at the Dulce facility, allegedly provided what became known as the "Dulce Papers"—documents, photographs, and video describing a seven-level underground facility where humans and aliens worked together on genetic experiments, with the deepest levels housing holding cells for human captives and hybrid creatures. The Dulce Papers have never been independently verified, and Castello himself disappeared without a trace.
+The Dulce narrative was elaborated most dramatically by Philip Schneider (1947–1996), a man who claimed to be a geological and structural engineer with seventeen years of experience on classified government construction projects. Schneider said he held a Level 3 ("Rhyolite 38") security clearance and had worked for Morrison-Knudsen and Bechtel on deep underground military base construction. His father, Captain Oscar Schneider, was a U.S. Navy officer who worked in nuclear medicine, helped design the first nuclear submarines, and participated in Operation Crossroads—the 1946 nuclear weapons testing at Bikini Atoll. Phil claimed his father had also been present aboard the USS Eldridge during the Philadelphia Experiment, connecting the Schneider family lineage to the deepest black projects of the mid-twentieth century.
+
+Schneider's central claim was explosive. In 1979, while working as part of a drilling team expanding tunnels beneath Dulce, New Mexico, his team broke through into a **pre-existing cavern**—one that was already occupied. What they found inside were beings Schneider called "large Greys." A firefight erupted between these entities and U.S. military and NATO forces. Sixty-six personnel—Secret Service agents, FBI, and Black Berets—were killed. Schneider claimed to be one of only three survivors, the other two placed under "close guard." He was injured by what he described as an alien directed-energy weapon—a beam that burned through his chest and blew off fingers on his left hand.
+
+During his lectures, Schneider displayed the physical evidence on his body: missing fingers, and a large chest scar he attributed to the alien beam. He also displayed metal artifacts he claimed were of extraterrestrial origin and what he called "Element 140" or "Corbomite"—though this latter claim strains credibility, as the heaviest confirmed elements are in the 118 range.
+
+Beyond Dulce, Schneider described a staggering underground infrastructure: 129 to 131 deep underground military bases in the United States alone, approximately 1,477 worldwide, each costing $17–19 billion, connected by magneto-leviton trains capable of Mach 2. He claimed these bases were built using advanced boring machines that melt rock with lasers, leaving tunnel walls smooth as "polished black glass." The construction, he said, had been ongoing since the early 1940s, funded by a "Black Budget" consuming 25% of the Gross National Product—approximately $1.25 trillion every two years, siphoned entirely outside Congressional oversight.
+
+Schneider also claimed the U.S. government had signed a treaty with the Grey aliens in 1954 under the Eisenhower administration—the "Greada Treaty"—exchanging technology for the right to abduct a limited number of humans and experiment on cattle. He alleged the aliens had violated this agreement, abducting far more humans than permitted and conducting genetic experiments beyond the treaty's scope. The government discovered the violations but was technologically outmatched and powerless to act.
+
+In May 1995, Schneider began a public lecture tour, giving over thirty presentations across the United States at Preparedness Expos and similar gatherings. He stated he was motivated by the death of his friend Ron Rummel, publisher of *Alien Digest*, who was found dead in August 1993—ruled a suicide. Schneider reported that eleven of his close friends had been killed in the preceding twenty-two months, most deaths classified as suicides. He told every audience the same thing: *"If I ever 'commit suicide,' you'll know I was murdered."*
+
+Seven months later, on or around January 10, 1996, Philip Schneider was found dead in his apartment in Wilsonville, Oregon. He had been dead for five to seven days. The Clackamas County Coroner initially attributed his death to a stroke. When the funeral director discovered marks on his neck, an autopsy was performed by Dr. Gunson at the Multnomah County Medical Examiner's office. The official ruling: suicide by strangulation—he had allegedly wrapped a rubber catheter hose three times around his neck and half-knotted it in front.
+
+His ex-wife, Cynthia Drayer, wrote a detailed letter to the Clackamas County Medical Examiner and Sheriff's office disputing the suicide finding. She noted: no suicide note was found; Phil had explicitly and repeatedly told family and friends he would never commit suicide; he had been borrowing a 9mm gun for protection, indicating he felt threatened, not suicidal; all of his lecture materials—alien metal artifacts, photographs, slides, notes, and higher math books—had been removed from his apartment; and his physical disabilities, including missing fingers, would have made self-strangulation with a catheter hose extremely difficult. Some accounts describe what appeared to be a military-style execution, with reports of torture preceding death.
+
+Schneider's death occurred on the same date as Karla Turner, a UFO abduction researcher who had also been publicly vocal about government-alien collaboration. The coincidence has not gone unnoticed.
+
+**The Dossier's reframing**: Schneider called the beings he encountered "aliens"—grey extraterrestrials from another world. But his *descriptions* tell a different story. The beings lived in pre-existing caverns underground. They had been there before the human drilling team arrived. The cavern environment—deep, sealed from the surface—matches the methane-rich, thermally active geological profile that Chapter 6 documents beneath the San Juan Basin. Schneider's language pointed UP (aliens from space); his evidence pointed DOWN (underground indigenous species). He used the only cultural frame available to him—"extraterrestrial"—to describe what this book identifies as the Vril. The taxonomy was wrong. The encounter may have been real. (For a detailed analysis of Schneider's claims and their correspondence with the Dossier's framework, see Appendix M.)
+
+### Thomas Castello and the Dulce Papers
+
+Thomas Edwin Castello, who claimed to be a former RAND Corporation security technician at the Dulce facility, allegedly provided what became known as the "Dulce Papers"—documents, photographs, and video describing a seven-level underground facility where humans and non-human entities worked together on genetic experiments, with the deepest levels housing holding cells for human captives and hybrid creatures. Castello stated that the original caverns included "ice caves and sulfur springs that the aliens found perfect for their needs"—a description that aligns precisely with the geological conditions documented in Chapter 6. The Dulce Papers have never been independently verified, and Castello himself disappeared without a trace.
 
 Marshall's description of the Dulce facility—"an entire floor devoted to cloning" and "another floor devoted to gene splicing"—aligns with the Dulce Papers' description of a multi-level facility with distinct functional areas. He adds: "You should see some of the stuff I've seen. Beaver-rats and all kinds of stuff. They're trying to make weapons for war, and they showed me everything. They thought I was loyal."
 
