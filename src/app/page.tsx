@@ -70,12 +70,7 @@ export default function HomePage() {
             >
               📥 Download PDF
             </Link>
-            <Link
-              href="/listen"
-              className="inline-flex items-center justify-center px-8 py-3 border border-border text-foreground font-semibold rounded-lg hover:bg-card transition-colors"
-            >
-              🎧 Listen
-            </Link>
+            {/* Listen button hidden until audiobook is ready */}
           </div>
 
           <blockquote className="text-muted-foreground italic text-base max-w-lg mx-auto font-serif border-l-2 border-gold/30 pl-4 text-left">

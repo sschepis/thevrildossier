@@ -117,30 +117,36 @@ export default function SearchPage() {
   const inputRef = useRef<HTMLInputElement>(null);
   const indexRef = useRef<SearchChunk[]>([]);
   const indexLoadedRef = useRef(false);
-  const indexLoadingRef = useRef(false);
+  const pendingLoadRef = useRef<Promise<SearchChunk[]> | null>(null);
 
   /**
    * Lazy-load the search index on demand (called from doSearch).
-   * Uses a ref to avoid stale-closure issues and unnecessary callback recreation.
-   * Returns a Promise that resolves with the loaded chunks.
+   * Uses a shared promise ref so concurrent callers wait for the in-flight
+   * load instead of silently dropping the search.
    */
   const ensureIndex = useCallback(async (): Promise<SearchChunk[]> => {
     if (indexLoadedRef.current) return indexRef.current;
-    if (indexLoadingRef.current) return []; // load in progress — skip this search cycle
+    if (pendingLoadRef.current) return pendingLoadRef.current;
 
-    indexLoadingRef.current = true;
     setLoading(true);
-    try {
-      const res = await fetch("/search-index.json");
-      const data: SearchChunk[] = await res.json();
-      indexRef.current = data;
-      indexLoadedRef.current = true;
-      setLoading(false);
-      return data;
-    } catch {
-      setLoading(false);
-      return [];
-    }
+    pendingLoadRef.current = fetch("/search-index.json")
+      .then((res) => {
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        return res.json();
+      })
+      .then((data: SearchChunk[]) => {
+        indexRef.current = data;
+        indexLoadedRef.current = true;
+        setLoading(false);
+        return data;
+      })
+      .catch(() => {
+        setLoading(false);
+        pendingLoadRef.current = null;
+        return [] as SearchChunk[];
+      });
+
+    return pendingLoadRef.current;
   }, []);
 
   // Focus the input on mount

@@ -126,12 +126,7 @@ function Navigation() {
             >
               Read
             </Link>
-            <Link
-              href="/listen"
-              className="text-sm text-muted-foreground hover:text-foreground transition-colors"
-            >
-              Listen
-            </Link>
+            {/* Listen link hidden until audiobook is ready */}
             <Link
               href="/download"
               className="text-sm text-muted-foreground hover:text-foreground transition-colors"
@@ -204,9 +199,7 @@ function MobileMenuButton() {
         <Link href="/read" className="block px-4 py-2 text-sm hover:bg-card-hover">
           Read
         </Link>
-        <Link href="/listen" className="block px-4 py-2 text-sm hover:bg-card-hover">
-          Listen
-        </Link>
+        {/* Listen link hidden until audiobook is ready */}
         <Link href="/download" className="block px-4 py-2 text-sm hover:bg-card-hover">
           Download
         </Link>
@@ -244,9 +237,7 @@ function Footer() {
               <Link href="/read" className="text-muted-foreground text-sm hover:text-foreground">
                 Read Online
               </Link>
-              <Link href="/listen" className="text-muted-foreground text-sm hover:text-foreground">
-                Audiobook
-              </Link>
+              {/* Audiobook link hidden until audiobook is ready */}
               <Link href="/download" className="text-muted-foreground text-sm hover:text-foreground">
                 Download
               </Link>

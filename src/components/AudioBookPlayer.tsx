@@ -15,6 +15,10 @@ export default function AudioBookPlayer({ chapters }: Props) {
   const [speed, setSpeed] = useState(1);
   const [audioAvailable, setAudioAvailable] = useState<Record<string, boolean>>({});
   const audioRef = useRef<HTMLAudioElement | null>(null);
+  // Tracks whether the player should auto-play when the track changes (e.g. auto-advance).
+  // Using a ref avoids including `isPlaying` in the track-load effect's dependency array,
+  // which would cause restart loops.
+  const shouldAutoPlayRef = useRef(false);
 
   const current = chapters[currentIdx];
 
@@ -22,7 +26,10 @@ export default function AudioBookPlayer({ chapters }: Props) {
   // instead of firing N parallel HEAD requests per chapter.
   useEffect(() => {
     fetch("/audio-manifest.json")
-      .then((res) => res.json())
+      .then((res) => {
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        return res.json();
+      })
       .then((slugs: string[]) => {
         const avail: Record<string, boolean> = {};
         const slugSet = new Set(slugs);
@@ -47,6 +54,8 @@ export default function AudioBookPlayer({ chapters }: Props) {
     setCurrentIdx((prev) => {
       const next = prev + 1;
       if (next < chapters.length && audioAvailable[chapters[next].slug]) {
+        // Signal that the next track should auto-play (continuous playback)
+        shouldAutoPlayRef.current = true;
         return next;
       }
       setIsPlaying(false);
@@ -78,14 +87,14 @@ export default function AudioBookPlayer({ chapters }: Props) {
   useEffect(() => {
     if (audioAvailable[current?.slug]) {
       loadAudio(currentIdx);
-      // Auto-play the next track if we were already playing (e.g. auto-advance)
-      if (isPlaying && audioRef.current) {
+      // Auto-play the next track if signaled (e.g. auto-advance from handleEnded)
+      if (shouldAutoPlayRef.current && audioRef.current) {
+        shouldAutoPlayRef.current = false;
         audioRef.current.play().catch(() => {
           setIsPlaying(false);
         });
       }
     }
-    // eslint-disable-next-line react-hooks/exhaustive-deps -- isPlaying intentionally excluded to avoid restart loops; auto-play only triggers on track change
   }, [currentIdx, loadAudio, current?.slug, audioAvailable]);
 
   // Cleanup audio element on unmount to prevent memory leaks
