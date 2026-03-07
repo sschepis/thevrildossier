@@ -21,6 +21,9 @@
 /public/search-index.json
 /public/audio-manifest.json
 
+# audio files — too large for Vercel functions; host on CDN instead
+/public/audio/
+
 # production
 /build
 
