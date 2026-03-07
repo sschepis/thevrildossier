@@ -19,6 +19,7 @@ import ReadingProgress from "@/components/ReadingProgress";
 import ChapterSidebar from "@/components/ChapterSidebar";
 import AudioPlayerInline from "@/components/AudioPlayerInline";
 import RelatedChapters from "@/components/RelatedChapters";
+import SocialShare from "@/components/SocialShare";
 
 interface PageProps {
   params: Promise<{ slug: string }>;
@@ -118,8 +119,13 @@ export default async function ChapterPage({ params }: PageProps) {
         {/* Related Chapters */}
         <RelatedChapters slug={slug} />
 
+        {/* Social Sharing */}
+        <div className="max-w-3xl mx-auto mt-12 pt-8 border-t border-border">
+          <SocialShare title={chapter.title} path={`/read/${slug}`} />
+        </div>
+
         {/* Chapter Navigation */}
-        <div className="max-w-3xl mx-auto mt-16 pt-8 border-t border-border">
+        <div className="max-w-3xl mx-auto mt-8 pt-8 border-t border-border">
           <div className="flex justify-between items-center">
             {prev && prev.file !== "" ? (
               <Link

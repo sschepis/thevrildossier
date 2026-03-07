@@ -259,6 +259,46 @@ What is documented is sufficient.
 
 ---
 
+## "I Don't Even Own Myself"
+
+Schauberger's final statement deserves closer examination than it typically receives. The sentence has been quoted hundreds of times in the alternative energy literature, usually as the poignant cry of a broken man. But the words themselves — parsed carefully — say something far more specific than grief.
+
+"They took everything from me. Everything."
+
+This first part is clear and documented. The contract he signed in September 1958 transferred all patents, intellectual property, research documents, models, and rights to the American consortium. A lifetime of work — the log flumes, the egg-shaped pipes, the Repulsine, the agricultural devices, the water purification systems, every diagram, every prototype, every note — was no longer his. The sentence is factual.
+
+"I don't even own myself."
+
+This is the sentence that stops you.
+
+A man who has lost his work might say: "They took everything." A man who has lost his reputation might say: "They destroyed me." A man who has lost his freedom might say: "I am trapped." But Schauberger said something different. He said he does not *own himself*. This is not a statement about loss. It is a statement about *property rights over his own person*.
+
+The phrase operates on three levels.
+
+### The Contractual Level
+
+Patent assignment agreements in the mid-twentieth century — particularly those involving technology with potential military or national-security applications — frequently included clauses that extended far beyond intellectual property. Non-disclosure provisions, non-compete restrictions, personal services obligations, and exclusivity commitments could effectively bind the inventor's *future cognitive output* to the assignee. If the contract Schauberger signed included such provisions — and given that the technology involved potential weapons applications developed under SS auspices, it almost certainly did — then "I don't even own myself" is not metaphor. It is a legal description. His future thoughts, observations, and inventions about implosion technology were contractually owned by the consortium. The man who spent his life observing nature was now prohibited from sharing what he observed.
+
+### The Framework Level
+
+Within the architecture of this book, the statement resonates at a deeper frequency.
+
+Chapter 3 documents the droning protocol — a mechanism by which an entity parasitically occupies a human body. The original consciousness is displaced or overridden. The person no longer owns their own body. Chapter 35 documents how consciousness can be maintained in "composite states" — factored, suppressible configurations — rather than "prime eigenstates" that are irreducible and sovereign. A person in a composite state is, in a precise mathematical sense, *not self-owning*. Their consciousness is structured in a way that allows external factoring — external control. Chapter 34 documents "functional implants" — belief systems installed so deeply that the host does not recognize them as foreign. Materialist epistemology itself is described as an implant that prevents the observer from recognizing their own nature as consciousness.
+
+If the system that took Schauberger's technology also operated on his consciousness — through the sustained duress of SS conscription, the psychological pressure of surveillance, the coercion of the contract signing — then "I don't even own myself" may be the recognition, in his final days, that the system had compromised something more fundamental than his patents. Not just his work. Not just his freedom of speech. His *sovereignty of observation* — the very faculty that had made him dangerous.
+
+### The Universal Level
+
+This is the level at which Schauberger's dying words become a diagnosis of the human condition as the Dossier describes it.
+
+The book's central thesis is that an entire species exists in a state of non-self-ownership: consciousness suppressed, perception managed, sovereign observation replaced by manufactured consensus. The population does not own itself. Its attention is captured. Its perception is shaped. Its creative potential is channeled into serving a system it cannot see. The technologies that would demonstrate the alternative — that the universe naturally tends toward order, coherence, and self-organization — are confiscated, classified, or destroyed.
+
+Schauberger's five words describe what happens when the system finishes with someone who tried to build machines that prove the universe is self-organizing. They took his machines. They took his documents. They took his right to speak, to work, to create. And in the end, the man who spent his life demonstrating that nature owns itself — that water organizes itself, that the vortex drives itself, that the implosion principle generates order without external input — concluded that he himself no longer did.
+
+The most charitable reading is grief. The most unsettling reading is precision.
+
+---
+
 ## Entropic Collapse IS Observation
 
 The central synthesis of this chapter connects two frameworks that were developed entirely independently: the mathematical framework of Chapter 35 and the physical-technological framework of Viktor Schauberger.
