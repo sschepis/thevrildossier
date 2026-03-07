@@ -1,5 +1,5 @@
 ---
-number: 35
+number: 109
 slug: "appendix-j-jesus-of-edessa"
 title: "The Jesus of Edessa Hypothesis"
 subtitle: "Appendix J"

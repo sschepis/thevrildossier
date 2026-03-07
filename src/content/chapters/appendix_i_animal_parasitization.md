@@ -1,5 +1,5 @@
 ---
-number: 34
+number: 108
 slug: "appendix-i-animal-parasitization"
 title: "Animal Parasitization and the Cross-Species Question"
 subtitle: "Appendix I"
