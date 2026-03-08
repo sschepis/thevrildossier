@@ -1,3 +1,21 @@
+---
+number: 5
+slug: "cloning-stations"
+title: "The Cloning Stations: Geography and Architecture"
+subtitle: "Chapter 5"
+part: 2
+partTitle: "The Infrastructure"
+epigraph: "The cloning station is like a small sports venue, like a dog and pony show. It's got the stands to seat about 400, 450."
+tags:
+  - "cloning-stations"
+  - "geography"
+  - "architecture"
+  - "dulce"
+  - "zorro-ranch"
+  - "epstein"
+  - "schneider"
+  - "underground-bases"
+---
 # Chapter 5
 
 # The Cloning Stations: Geography and Architecture

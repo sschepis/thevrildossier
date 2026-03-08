@@ -1,3 +1,18 @@
+---
+number: 113
+slug: "appendix-n-the-sharing-protocol"
+title: "Appendix N: The Sharing Protocol"
+subtitle: "TPUSA as Institutional Capture Case Study"
+part: 11
+partTitle: "Appendices"
+tags:
+  - "appendix"
+  - "sharing-protocol"
+  - "tpusa"
+  - "institutional-capture"
+  - "animorphs"
+  - "parasitism"
+---
 # Appendix N
 
 # The Sharing Protocol: TPUSA as Institutional Capture Case Study

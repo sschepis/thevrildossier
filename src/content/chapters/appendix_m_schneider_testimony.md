@@ -1,3 +1,18 @@
+---
+number: 112
+slug: "appendix-m-schneider-testimony"
+title: "Appendix M: The Schneider Testimony"
+subtitle: "Phil Schneider's Claims, Evidence, and Death"
+part: 11
+partTitle: "Appendices"
+tags:
+  - "appendix"
+  - "schneider"
+  - "testimony"
+  - "dulce"
+  - "underground-bases"
+  - "whistleblower"
+---
 # Appendix M
 
 # The Schneider Testimony

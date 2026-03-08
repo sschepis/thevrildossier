@@ -1,3 +1,18 @@
+---
+number: 102
+slug: "appendix-c-epstein-network"
+title: "Appendix C: The Epstein Network"
+subtitle: "Flight Logs, Property Analysis, and Documented Connections"
+part: 10
+partTitle: "Appendices"
+tags:
+  - "appendix"
+  - "epstein"
+  - "flight-logs"
+  - "properties"
+  - "network"
+  - "documents"
+---
 # Appendix C
 
 # The Epstein Network: Flight Logs, Property Analysis, and Documented Connections

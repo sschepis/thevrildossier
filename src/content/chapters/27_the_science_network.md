@@ -1,3 +1,20 @@
+---
+number: 27
+slug: "the-science-network"
+title: "The Science Network: What 3.5 Million Pages Reveal"
+subtitle: "Chapter 27"
+part: 8
+partTitle: "The Science Network"
+epigraph: "If Jeffrey Epstein were building a ranch for conventional purposes, why would the geological conditions of the subsurface matter?"
+tags:
+  - "epstein"
+  - "science-network"
+  - "george-church"
+  - "charles-lieber"
+  - "consciousness-transfer"
+  - "doj-files"
+  - "2026"
+---
 # Chapter 27
 
 # The Science Network: What 3.5 Million Pages Reveal

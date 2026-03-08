@@ -41,6 +41,7 @@ export const parts = [
   { number: 8, title: "The Science Network" },
   { number: 9, title: "The Deeper Reality" },
   { number: 10, title: "Appendices" },
+  { number: 11, title: "Appendices" },
 ];
 
 function toChapter(data: ChapterData): Chapter {

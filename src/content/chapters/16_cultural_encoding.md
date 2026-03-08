@@ -1,3 +1,19 @@
+---
+number: 16
+slug: "cultural-encoding"
+title: "The Cultural Code: Logistics, Sigils & The Podesta Codex"
+subtitle: "Chapter 16"
+part: 5
+partTitle: "The Connections"
+epigraph: "I always put little hints in the songs, in lyrics and stuff, wherever I could. But sometimes, the code isn't a hint. It's an invoice."
+tags:
+  - "cultural-encoding"
+  - "podesta"
+  - "logistics"
+  - "media"
+  - "symbols"
+  - "connections"
+---
 # Chapter 16
 
 # The Cultural Code: Logistics, Sigils & The Podesta Codex

@@ -1,10 +1,26 @@
+---
+number: 15
+slug: "epstein-network"
+title: "The Epstein Network: The Ark & The Zorro Protocol"
+subtitle: "Chapter 15"
+part: 5
+partTitle: "The Connections"
+epigraph: "They would trade people gems and gold, and they would give them animals, children, all kinds of things, and just cart them down tunnels and cages."
+tags:
+  - "epstein"
+  - "zorro-ranch"
+  - "trafficking"
+  - "network"
+  - "logistics"
+  - "connections"
+---
 # Chapter 15
 
 # The Epstein Network: The Ark & The Zorro Protocol
 
 ---
 
-*\"They would trade people gems and gold, and they would give them animals, children, all kinds of things, and just cart them down tunnels and cages.\"*
+*"They would trade people gems and gold, and they would give them animals, children, all kinds of things, and just cart them down tunnels and cages."*
 
 ---
 

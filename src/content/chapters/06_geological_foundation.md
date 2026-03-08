@@ -1,3 +1,20 @@
+---
+number: 6
+slug: "geological-foundation"
+title: "The Geological Foundation & The Dimensional Membrane"
+subtitle: "Chapter 6"
+part: 2
+partTitle: "The Infrastructure"
+epigraph: "They need a methane-oxygen mix to breathe, and deep underground they got sulfur pools, I guess, that make this stuff."
+tags:
+  - "geology"
+  - "new-mexico"
+  - "methane"
+  - "sulfur"
+  - "underground"
+  - "science"
+  - "dimensional-membrane"
+---
 # Chapter 6
 
 # The Geological Foundation & The Dimensional Membrane

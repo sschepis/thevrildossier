@@ -1,3 +1,19 @@
+---
+number: 32
+slug: "the-industrial-invasion"
+title: "The Industrial Invasion: Birth Rate Collapse, Manufactured Bodies, and the Endgame"
+subtitle: "Chapter 32"
+part: 9
+partTitle: "The Deeper Reality"
+epigraph: "The best way to take over a species is to make the species unable to reproduce naturally, then offer to manufacture their replacements, then control what consciousness inhabits those replacements."
+tags:
+  - "birth-rate"
+  - "fertility"
+  - "demographics"
+  - "endgame"
+  - "industrial"
+  - "manufactured-bodies"
+---
 # Chapter 32
 
 # The Industrial Invasion: Birth Rate Collapse, Manufactured Bodies, and the Endgame

@@ -1,3 +1,20 @@
+---
+number: 18
+slug: "the-disclosure-parallel"
+title: "The Disclosure Parallel: UAPs, Non-Human Intelligence, and the Anatomy of Misdirection"
+subtitle: "Chapter 18"
+part: 6
+partTitle: "Synthesis and Implications"
+epigraph: "They're not from out there. They're from down here."
+tags:
+  - "disclosure"
+  - "uap"
+  - "nhi"
+  - "congress"
+  - "grusch"
+  - "ultraterrestrial"
+  - "misdirection"
+---
 # Chapter 18
 
 # The Disclosure Parallel: UAPs, Non-Human Intelligence, and the Anatomy of Misdirection
