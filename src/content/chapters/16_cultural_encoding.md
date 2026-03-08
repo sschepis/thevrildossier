@@ -142,6 +142,34 @@ Alternative 3 is the original template for what this chapter documents: truth em
 
 While the operational code is hidden in plain sight, the *concepts* are broadcast to the masses through fiction. The parallels between Marshall's testimony and major media franchises are too specific to be coincidental.
 
+### Animorphs (1996–2001)
+K.A. Applegate's young adult book series — 54 novels, a television adaptation, 35 million copies sold — is the most direct fictional encoding of the Vril parasitic system in popular media. It is more specific than any other example in this chapter.
+
+**The Yeerks** are a parasitic alien species that enter through the ear canal, wrap around the brain, and assume **complete control** of the host body. The host is fully conscious but unable to act — trapped, watching their body perform actions they did not choose. This is Marshall's description of the droning process rendered for children. The mechanism (ear canal → brain → total control with conscious witness) maps point-for-point onto the Vril proboscis → brainstem parasitization described in Chapter 3.
+
+**The Sharing** is the Yeerks' recruitment front. It operates as a voluntary community organization — part church, part civic group — where friendly members invite newcomers to social events, group activities, and eventually "full membership." At no point does the recruit understand what "full membership" means until it is too late. The Sharing is organized in three tiers:
+
+- **Outer circle**: Open to anyone. Social events, community service, camaraderie. Appears harmless and positive.
+- **Inner circle**: Invitation only. Members begin to exhibit behavioral changes — increased loyalty, reduced individuality, advocacy for the organization above personal relationships.
+- **Full members**: Hosts. The parasite has entered. The person you knew is gone. The body remains, performing its social role, but the consciousness operating it is not human.
+
+The three-day cycle is critical: Yeerks must return to a **Kandrona pool** every 72 hours to feed. This creates a logistical requirement — regular, mandatory gatherings where hosts are processed. Compare to Marshall's testimony about the cloning centers requiring regular attendance and the bodily schedule of the process.
+
+Applegate published this for ten-year-olds in 1996 — the same generation that would grow up to face the reality the Dossier documents. The series was discontinued in 2001. In it, a small group of teenagers, given the ability to temporarily inhabit animal bodies, fight a covert war against an invasion that the adult world cannot see because the invaders look exactly like everyone else.
+
+The thematic mapping is exact:
+
+| Animorphs Element | Dossier Equivalent |
+|---|---|
+| Yeerk parasites entering through the ear canal | Vril proboscis entering through the eye/orifice |
+| Complete host control with conscious witness | Droning — host awareness trapped behind parasite control |
+| The Sharing (voluntary recruitment front) | Institutional capture through social organizations |
+| Three-day Kandrona feeding cycle | Regular cloning center attendance requirements |
+| Invasion invisible to adult world | System designed to be undetectable (Chapter 17) |
+| Children as the only resistance | Disclosure aimed at the next generation |
+
+Whether Applegate had access to classified information or channeled the pattern through creative intuition, the encoding is the most precise in the cultural record.
+
 ### Avatar (2009)
 James Cameron's film depicts the central mechanism of the cloning station: a human operator enters a pod, sleeps, and transfers consciousness into a bio-engineered body. When the link is broken, the avatar "drops limp"—Marshall's exact description of the "drone" bodies.
 

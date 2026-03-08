@@ -280,6 +280,43 @@ Seven independent coincidences explain the same data but require the assumption 
 
 ---
 
+## The Education Pipeline: Who Controls What Children Learn
+
+The institutional control documented above — intelligence protection, financial opacity, academic capture — has a downstream component that the DOJ files illuminate through an unexpected path: textbook publishing.
+
+The connection runs through the Maxwell family.
+
+**Robert Maxwell** (1923–1991) — Ghislaine Maxwell's father — was not merely a British media mogul. He was a documented intelligence asset. Former Mossad officer Ari Ben-Menashe testified that Maxwell was recruited by Israeli intelligence. The DOJ Epstein files reference Maxwell in document EFTA02507843. Maxwell died under suspicious circumstances — falling from his yacht, the *Lady Ghislaine*, off the Canary Islands in November 1991. His death was ruled drowning; the circumstances have never been satisfactorily explained. Six serving and former heads of Israeli intelligence attended his funeral on the Mount of Olives.
+
+In 1988, Robert Maxwell acquired **Macmillan Publishers** — one of the "Big Five" of educational publishing — for $2.6 billion. This acquisition placed one of the world's largest textbook publishers under the control of a documented intelligence asset.
+
+The McGraw family dynasty — which built **McGraw Hill** into the other dominant American textbook publisher — split its empire in 2013 into two entities: **S&P Global** (financial data, credit ratings — the infrastructure of information control) and **McGraw Hill Education** (K-12 and higher education textbooks — the infrastructure of belief formation). S&P Global is now worth $150 billion. It rates sovereign governments.
+
+McGraw Hill Education was subsequently acquired by **Apollo Global Management** — the private equity firm co-founded by **Leon Black**.
+
+Leon Black paid Jeffrey Epstein **$170 million** between 2012 and 2017. This figure was confirmed by the U.S. Senate Finance Committee. Bloomberg (February 2026) reported that "Epstein Was a Fixer for Billionaire's Deepest Secrets." Black initially claimed the payments were for "tax advice." He resigned as Apollo's CEO in March 2021 after the payments were publicized, but retained his board seat until 2025. His successor, **Marc Rowan**, has direct Epstein contacts documented in the EFTA files (Bloomberg, January 2026).
+
+Apollo sold McGraw Hill Education to **Platinum Equity** — led by **Tom Gores**, who also controls **Securus Technologies**, the largest prison telecom provider in the United States. Securus charges inmates $1/minute for phone calls and has been documented monitoring attorney-client privileged communications.
+
+On March 2, 2026, a class action lawsuit was filed against Apollo, Black, and related entities for alleged fraudulent transactions connected to the Epstein relationship.
+
+**The ownership chain:**
+
+| Entity | Owner/Controller | Epstein Connection |
+|--------|-----------------|-------------------|
+| Macmillan Publishers | Robert Maxwell (1988) | Father of Ghislaine Maxwell; documented Mossad asset; DOJ files reference (EFTA02507843) |
+| McGraw Hill Education | Apollo Global Management | Leon Black paid Epstein $170M; Marc Rowan in EFTA files |
+| McGraw Hill Education (current) | Platinum Equity / Tom Gores | Connected through Apollo divestiture; controls prison telecom (Securus) |
+| S&P Global (credit ratings) | McGraw family legacy | Rates sovereign governments; determines national borrowing costs |
+
+The structural question is not whether any individual in this chain is "guilty" of the crimes documented elsewhere in this book. The structural question is: **who controls what children learn, and does that control chain connect to the same network that runs the operations documented in this chapter?**
+
+The answer, traced through documented ownership records and court filings, is yes. The same network that funded Epstein's scientific portfolio — cloning research, consciousness studies, gene editing, underground infrastructure — also controls the publishing houses that determine what 180 million K-12 students in the United States are taught about biology, history, and the nature of reality.
+
+The textbook is the first layer of the classification architecture. Before you can hide a secret, you must ensure the population lacks the conceptual framework to recognize it.
+
+---
+
 ## The Question the Files Pose
 
 The DOJ files do not prove the Marshall framework. They were not collected to investigate Marshall's claims, and the investigators who compiled them operated without reference to Marshall's testimony.

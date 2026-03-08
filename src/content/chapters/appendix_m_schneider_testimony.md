@@ -149,6 +149,29 @@ He was dead within seven months.
 
 ---
 
+## The Epstein Parallel
+
+Phil Schneider (January 1996) and Jeffrey Epstein (August 2019) — twenty-three years apart, two "suicides" that follow the same structural template:
+
+| | Schneider | Epstein |
+|---|---|---|
+| Official cause of death | Suicide by strangulation (rubber catheter hose) | Suicide by hanging |
+| Physical evidence contradicting ruling | Missing fingers made self-strangulation implausible | Three neck fractures inconsistent with hanging in 1,000+ cases (Baden); autopsy body had enlarged prostate, but Epstein's own records show prostatectomy |
+| Materials removed | All lecture materials, alien artifacts, research notes disappeared from apartment | "Raw" surveillance video was edited (~3 min removed); podcast archives deleted |
+| Forensic dispute | Cynthia Drayer challenged the ruling in detailed letter | Dr. Michael Baden challenged the ruling publicly |
+| Prior warning | "If I ever 'commit suicide,' you'll know I was murdered" — stated at every lecture | Had been on suicide watch; watch conveniently removed shortly before death |
+| Surveillance failure | No applicable surveillance existed | Half the SHU cameras failed; two guards "fell asleep" simultaneously |
+| Pattern | Pointed DOWN (underground beings, pre-existing caverns) → eliminated | Knew where the bodies were buried (literally) → eliminated or extracted |
+| Official response | Case closed, no further investigation | DOJ released documents that contradict its own official story |
+
+The parallel is not coincidental. Both men possessed information that threatened the same infrastructure: Schneider knew the underground geography; Epstein operated the surface logistics. One described what was below; the other serviced what was above. Both were silenced by the same mechanism — an implausible suicide ruling that the physical evidence contradicts.
+
+The key difference: Schneider is confirmed dead. Epstein may not be. The prostate discrepancy (autopsy body has organ that Epstein's records confirm was surgically removed) transforms the "extraction hypothesis" from inference to physical evidence. If the body wasn't Epstein's, the death was staged — consistent with the decoy body operation, the Roberto Grijalva testimony, and the operational anomalies documented in Appendix C.
+
+For complete Epstein death evidence analysis, see **Chapter 15** and **Appendix C**.
+
+---
+
 ## Connection to Grusch (2023)
 
 Twenty-seven years separate Schneider's final lecture from David Grusch's Congressional testimony. The parallels are structural:

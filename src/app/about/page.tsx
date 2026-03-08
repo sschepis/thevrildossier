@@ -97,10 +97,9 @@ export default function AboutPage() {
 
         <h2>How to Read</h2>
         <p>
-          You can <Link href="/read">read online</Link> chapter by chapter,{" "}
-          <Link href="/listen">listen to the audiobook</Link>, or{" "}
+          You can <Link href="/read">read online</Link> chapter by chapter or{" "}
           <Link href="/download">download</Link> in EPUB, PDF, or MOBI format.
-          All formats are free.
+          All formats are free. An audiobook is coming soon.
         </p>
 
         <h2>Disclaimer</h2>
