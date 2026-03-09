@@ -87,7 +87,9 @@ export default async function ChapterPage({ params }: PageProps) {
           )}
           {chapter.number >= 100 && (
             <p className="text-muted font-mono text-sm mb-2">
-              Appendix {String.fromCharCode(65 + (chapter.number - 100))}
+              Appendix {(chapter.number - 100) < 26
+                ? String.fromCharCode(65 + (chapter.number - 100))
+                : `${chapter.number - 100 + 1}`}
             </p>
           )}
           <h1 className="text-3xl sm:text-4xl font-bold text-white mb-4">

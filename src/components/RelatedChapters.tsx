@@ -7,7 +7,10 @@ interface RelatedChaptersProps {
 
 function formatLabel(num: number): string {
   if (num === 0) return "Frontmatter";
-  if (num >= 100) return `App. ${String.fromCharCode(65 + (num - 100))}`;
+  if (num >= 100) {
+    const idx = num - 100;
+    return `App. ${idx < 26 ? String.fromCharCode(65 + idx) : `${idx + 1}`}`;
+  }
   return `Ch. ${num}`;
 }
 

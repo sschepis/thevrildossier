@@ -30,7 +30,7 @@ const sanitizeSchema = {
  */
 export async function getChapterContent(filename: string): Promise<string> {
   // Guard against path traversal — reject filenames containing separators or '..'
-  if (filename.includes(path.sep) || filename.includes("..")) {
+  if (filename.includes("/") || filename.includes("\\") || filename.includes("..")) {
     return "";
   }
   const filePath = path.join(contentDir, filename);

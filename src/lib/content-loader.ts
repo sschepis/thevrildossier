@@ -52,8 +52,8 @@ export function loadAllChapters(): ChapterData[] {
   const errors: string[] = [];
 
   for (const file of files) {
-    // Guard against path traversal — reject filenames containing separators or '..'
-    if (file.includes(path.sep) || file.includes("..")) {
+    // Guard against path traversal — reject filenames containing any separator or '..'
+    if (file.includes("/") || file.includes("\\") || file.includes("..")) {
       errors.push(`${file}: path traversal detected, skipping`);
       continue;
     }

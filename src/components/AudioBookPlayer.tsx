@@ -63,6 +63,11 @@ export default function AudioBookPlayer({ chapters }: Props) {
     });
   }, [chapters, audioAvailable]);
 
+  const handleLoadedMetadata = useCallback(() => {
+    setCurrentTime(0);
+    setDuration(audioRef.current?.duration || 0);
+  }, []);
+
   const loadAudio = useCallback((idx: number) => {
     const ch = chapters[idx];
     if (!ch) return;
@@ -70,19 +75,17 @@ export default function AudioBookPlayer({ chapters }: Props) {
     if (audioRef.current) {
       audioRef.current.pause();
       audioRef.current.removeEventListener("timeupdate", handleTimeUpdate);
+      audioRef.current.removeEventListener("loadedmetadata", handleLoadedMetadata);
       audioRef.current.removeEventListener("ended", handleEnded);
     }
 
     const audio = new Audio(`/audio/${ch.slug}.mp3`);
     audio.playbackRate = speed;
     audio.addEventListener("timeupdate", handleTimeUpdate);
-    audio.addEventListener("loadedmetadata", () => {
-      setCurrentTime(0);
-      setDuration(audio.duration || 0);
-    });
+    audio.addEventListener("loadedmetadata", handleLoadedMetadata);
     audio.addEventListener("ended", handleEnded);
     audioRef.current = audio;
-  }, [chapters, speed, handleTimeUpdate, handleEnded]);
+  }, [chapters, speed, handleTimeUpdate, handleLoadedMetadata, handleEnded]);
 
   useEffect(() => {
     if (audioAvailable[current?.slug]) {
@@ -103,12 +106,13 @@ export default function AudioBookPlayer({ chapters }: Props) {
       if (audioRef.current) {
         audioRef.current.pause();
         audioRef.current.removeEventListener("timeupdate", handleTimeUpdate);
+        audioRef.current.removeEventListener("loadedmetadata", handleLoadedMetadata);
         audioRef.current.removeEventListener("ended", handleEnded);
         audioRef.current.src = "";
         audioRef.current = null;
       }
     };
-  }, [handleTimeUpdate, handleEnded]);
+  }, [handleTimeUpdate, handleLoadedMetadata, handleEnded]);
 
   const togglePlay = async () => {
     if (!audioRef.current || !audioAvailable[current?.slug]) return;

@@ -58,8 +58,26 @@ function toChapter(data: ChapterData): Chapter {
   };
 }
 
-// Auto-discovered chapters from frontmatter
-export const chapters: Chapter[] = loadAllChapters().map(toChapter);
+/**
+ * Lazily initialized chapter list — avoids a top-level side-effect that would
+ * crash if the content directory is missing (e.g. in tests or CI).
+ */
+let _chapters: Chapter[] | null = null;
+
+function ensureChapters(): Chapter[] {
+  if (!_chapters) {
+    _chapters = loadAllChapters().map(toChapter);
+  }
+  return _chapters;
+}
+
+/** All chapters, lazily loaded from markdown frontmatter. */
+export const chapters: Chapter[] = new Proxy([] as Chapter[], {
+  get(_target, prop, receiver) {
+    const arr = ensureChapters();
+    return Reflect.get(arr, prop, receiver);
+  },
+});
 
 export function getChapter(slug: string): Chapter | undefined {
   const data = loadChapter(slug);
@@ -67,29 +85,32 @@ export function getChapter(slug: string): Chapter | undefined {
 }
 
 export function getNextChapter(slug: string): Chapter | undefined {
-  const idx = chapters.findIndex((c) => c.slug === slug);
-  if (idx === -1 || idx === chapters.length - 1) return undefined;
-  return chapters[idx + 1];
+  const all = ensureChapters();
+  const idx = all.findIndex((c) => c.slug === slug);
+  if (idx === -1 || idx === all.length - 1) return undefined;
+  return all[idx + 1];
 }
 
 export function getPrevChapter(slug: string): Chapter | undefined {
-  const idx = chapters.findIndex((c) => c.slug === slug);
+  const all = ensureChapters();
+  const idx = all.findIndex((c) => c.slug === slug);
   if (idx <= 0) return undefined;
-  return chapters[idx - 1];
+  return all[idx - 1];
 }
 
 export function getAvailableChapters(): Chapter[] {
-  return chapters.filter((c) => c.file !== "");
+  return ensureChapters().filter((c) => c.file !== "");
 }
 
 export function getChaptersByPart(): {
   part: (typeof parts)[number];
   chapters: Chapter[];
 }[] {
+  const all = ensureChapters();
   return parts
     .filter((p) => p.number > 0)
     .map((part) => ({
       part,
-      chapters: chapters.filter((c) => c.part === part.number),
+      chapters: all.filter((c) => c.part === part.number),
     }));
 }
