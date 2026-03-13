@@ -13,7 +13,7 @@ export default function HomePage() {
         <div className="absolute inset-0 bg-gradient-to-b from-gold/5 via-transparent to-transparent" />
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-16 sm:pt-24 pb-12 text-center relative">
           <p className="text-gold/60 text-sm font-mono uppercase tracking-[0.3em] mb-6">
-            Testimony · Documents · Science · Cosmology
+            Testimony · Plasma Physics · EM Ecology · Cosmology
           </p>
           <h1 className="text-5xl sm:text-7xl font-bold text-white tracking-tight mb-6">
             THE VRIL
@@ -22,12 +22,12 @@ export default function HomePage() {
           </h1>
 
           <p className="text-foreground text-xl sm:text-2xl max-w-3xl mx-auto mb-4 leading-snug font-semibold">
-            Five independent witnesses. Four decades. Zero contact between them.
+            Seven independent lines of evidence. Three scientific pillars. One electromagnetic ecology.
           </p>
           <p className="text-muted-foreground text-lg sm:text-xl max-w-2xl mx-auto mb-10 font-serif leading-relaxed">
-            They describe the same entity, the same infrastructure, and the same
-            method of control — and the 2026 Epstein files just corroborated the
-            science network behind it.
+            Earth&apos;s resonance cavity hosts coherent electromagnetic entities
+            — and the 2026 Epstein files just revealed the science network
+            studying them.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -114,9 +114,9 @@ export default function HomePage() {
                 if that&apos;s not an accident?
               </h3>
               <p className="text-muted-foreground text-sm font-serif mb-4">
-                South Korea: 0.72. Japan: 1.20. EU average: 1.46. If a parasitic
-                intelligence needed manufactured bodies it controls, this is
-                exactly what the data would look like.
+                South Korea: 0.72. Japan: 1.20. EU average: 1.46. If an
+                electromagnetic ecology required biological hosts to anchor its
+                field coherence, this is exactly what the data would look like.
               </p>
               <span className="inline-flex items-center gap-2 text-sm text-gold group-hover:text-gold-dim transition-colors font-semibold">
                 The Industrial Invasion →
@@ -130,12 +130,14 @@ export default function HomePage() {
       <section className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
         <div className="text-center mb-10">
           <h2 className="text-2xl sm:text-3xl font-bold text-white mb-4">
-            Five Sources. One Pattern.
+            Seven Lines of Evidence. One Hypothesis.
           </h2>
           <p className="text-muted-foreground text-lg font-serif max-w-2xl mx-auto">
-            Independent witnesses who never met each other, spanning four
-            decades and five cultural contexts, describe the same phenomenon
-            with the same operational details.
+            Tsytovich&apos;s plasma self-organization, Persinger&apos;s
+            geomagnetic consciousness, McFadden&apos;s CEMI theory — three
+            peer-reviewed pillars converge with testimony, cosmology, and
+            declassified records on one conclusion: Earth&apos;s electromagnetic
+            field hosts an inhabited ecology.
           </p>
         </div>
 
@@ -203,12 +205,12 @@ export default function HomePage() {
 
         <div className="bg-card border border-gold/30 rounded-xl p-6 sm:p-8 text-center">
           <p className="text-gold text-lg font-serif italic mb-3">
-            Same entity. Same infrastructure. Same method of control.
+            Same electromagnetic signature. Same resonance infrastructure. Same field-coherence mechanism.
           </p>
           <p className="text-muted-foreground text-sm max-w-xl mx-auto mb-4">
-            This book traces the convergence across every domain — testimony,
-            science, cosmology, demographics, and declassified records — and
-            presents one falsifiable hypothesis.
+            This book traces the convergence across plasma physics, consciousness
+            research, geomagnetic data, ancient cosmology, and declassified
+            records — and presents one falsifiable hypothesis: the EM ecology model.
           </p>
           <Link
             href="/read/the-man-who-remembered"

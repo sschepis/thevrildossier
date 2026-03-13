@@ -20,11 +20,6 @@ tags:
 
 # The Great Year: The 12,000-Year Cycle and the Electromagnetic Transition
 
----
-
-*"All the major bodies of our Solar System are changing rapidly, but nobody is talking about it."*
-
----
 
 ## Everything Is Changing
 
@@ -188,6 +183,8 @@ At these resonance points:
 
 Every single item on this list is currently being observed.
 
+Under the EM ecology model, the Great Year is not merely a cultural or astronomical cycle — it is an electromagnetic one. Earth's precession changes its magnetic field orientation relative to the galactic magnetic field, modulating the Schumann resonance cavity's characteristics over the 25,920-year cycle. The 12,000-year half-cycle corresponds to the points of maximum and minimum alignment — and, under this model, to the points of maximum and minimum EM entity activity. The ancient traditions that mark these transition points may be recording genuine shifts in the electromagnetic ecology's intensity.
+
 ---
 
 ## The Fractal Null Zone at the Precessional Scale
@@ -235,6 +232,8 @@ The book traces Atlantean survival knowledge through the nine masters who founde
 
 The Egyptians were tracking the precession cycle because they knew — from Atlantean experience — what happens at the transition points. They encoded the cycle in stone because stone survives what civilization does not.
 
+The geological zones identified in Chapter 6 as EM-favorable — high quartz, high iron, geothermally active — are the same zones that ancient traditions identify as "sacred sites" or "thin places." Under the Great Year framework, these sites would experience the most pronounced EM cycling, explaining why they consistently appear in traditions marking cyclical catastrophe and renewal. The Egyptian temples built on granite foundations, the Greek oracles at geothermally active sites, the Vedic traditions centered on the iron-rich Deccan Traps — all occupy locations where the Schumann resonance cavity's interaction with the local geological substrate would be most dramatically modulated by the precessional electromagnetic cycle.
+
 ### The Mesoamerican Calendar
 
 The Maya Long Count calendar terminates at a date corresponding to December 21, 2012 — a date that was widely misinterpreted as "the end of the world" but that Maya scholars identify as the end of a *b'ak'tun* — a cycle of approximately 5,125 years. Five b'ak'tun approximate one half-precession cycle. The Mayan calendar is not predicting apocalypse. It is marking the transition between electromagnetic epochs.
@@ -252,6 +251,8 @@ The timeline:
 **~Now**: Observable precursors identical to what would precede a similar event. Magnetosphere weakening. Solar system entering denser interstellar medium. Heliosphere compressing. Every planet in the solar system exhibiting anomalous behavior.
 
 **~Near future**: The transition itself. Not necessarily a single impact event (the Younger Dryas mechanism may have been a solar micronova, a cosmic impact, or a galactic current sheet crossing — the precursor signatures are identical for all three). But a fundamental shift in the electromagnetic environment that destabilizes the climate, geological, and biological systems that depend on the current configuration.
+
+The recurring "reset" events documented in multiple traditions — the Deluge, the Younger Dryas impact, the collapse of Bronze Age civilizations — cluster at Great Year transition points. Under the EM ecology model, these are not coincidental but causal: peaks in electromagnetic entity activity, driven by optimal geomagnetic alignment, produce civilization-scale interference with human governance and social organization. The entities' ability to couple with human consciousness reaches maximum effectiveness at precisely the moments when Earth's own electromagnetic defenses — the magnetosphere, the stable Schumann cavity — are most disrupted. The "resets" are not merely geological catastrophes that happen to correlate with the cycle; they are the observable signature of the electromagnetic ecology reaching peak activity during the transition windows.
 
 ---
 
@@ -273,7 +274,7 @@ If the controllers know the transition is coming (as the book argues they do), t
 
 ### 3. The Eschatological Function (Chapter 13)
 
-Chapter 13 identified the current era as "Satan's little season" — the period of maximum deception preceding the final transition. The William Casey quote — *"We'll know our disinformation program is complete when everything the American public believes is false"* — describes the operational objective of managing information during the approach to the transition.
+Chapter 13 identified the current era as "Satan's little season" — the period of maximum deception preceding the final transition. The William Casey quote in the original post — *"We'll know our disinformation program is complete when everything the American public believes is false"* — describes the operational objective of managing information during the approach to the transition.
 
 The deception is not about any single issue. It is **total**. The function of the deception infrastructure is to ensure that, when the transition arrives, the general population is maximally unprepared — intellectually, spiritually, and practically.
 

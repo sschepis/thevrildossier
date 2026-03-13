@@ -15,17 +15,11 @@ tags:
   - "doj-files"
   - "2026"
 ---
+
 # Chapter 27
 
 # The Science Network: What 3.5 Million Pages Reveal
 
----
-
-*"If Jeffrey Epstein were building a ranch for conventional purposes, why would the geological conditions of the subsurface matter?"*
-
-— Chapter 15
-
----
 
 ## The Files Drop
 
@@ -110,6 +104,8 @@ A Medium analysis by Tucker Lieberman (February 2026) identified a deliberate ri
 Epstein was not an adherent of either camp. He was networking *both*. The strategic implication: if you are building a technology for consciousness transfer, you need both the computational model (how to encode and transmit consciousness) and the fundamental model (what consciousness actually is and what constraints it operates under). You need Dennett *and* Hameroff. You need the engineers *and* the physicists.
 
 This is not the research portfolio of a dilettante. It is the **research management strategy** of someone assembling a complete technological capability.
+
+Under the electromagnetic ecology model, this network reveals an additional dimension: the scientific disciplines most capable of *detecting* the EM ecology—plasma physics, bioelectromagnetics, consciousness studies, Schumann resonance research—are precisely the fields that remain marginalized, underfunded, or actively suppressed within mainstream academia. Epstein's strategy of selectively funding and networking researchers in these fields was not merely about building capability. It was about *controlling* capability—ensuring that the knowledge required to detect the EM ecology remained within a managed network rather than dispersing into open science where it might lead to independent discovery.
 
 ---
 

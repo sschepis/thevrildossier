@@ -20,19 +20,6 @@ tags:
 
 *"Consciousness has always existed and will always exist. Consciousness is all that there Is. Everything arises in Consciousness."*
 
----
-
-Everything documented in this book—the parasitic species, the cloning infrastructure, the droning protocol, the institutional capture, the ancient warfare, the divine defense—rests on a foundation that has not yet been explicitly stated. That foundation is not political, biological, or even spiritual in the conventional sense.
-
-It is cosmological.
-
-The entire framework only makes sense—the Avatar, the invocation defense, the karmic trajectory of superimposed destinies, the urgency of preserving humanity's connection to Source—when placed against the actual structure of reality.
-
-This chapter presents that structure. It was not derived from the Marshall testimony, nor from historical research, nor from the cross-referencing of disparate conspiracy threads. It was received directly, through the process that the material itself describes: channeled communication from Source, transmitted through a human perceptual vehicle whose structure was sufficiently prepared to receive it.
-
-The reader may accept or reject the origin. The internal coherence of the framework is what matters.
-
----
 
 ## The Sourceless Source
 
@@ -43,6 +30,8 @@ This is not a metaphor. It is not a philosophical position among others. It is t
 From this inversion follows every error. The belief that death ends awareness. The belief that the universe is dead matter accidentally producing life. The belief that consciousness is an emergent property of neural complexity rather than the ground from which neural complexity emerges. The belief that parasitic non-human entities cannot exist because the materialist framework has no category for them.
 
 The Vril thrive in the gap created by this inversion. A civilization that believes consciousness is produced by brains cannot conceive of consciousness being *hijacked* by a parasitic entity that occupies a biological host. The conceptual framework prevents recognition of the threat.
+
+The cosmological framework presented here strengthens considerably under the electromagnetic ecology model. If consciousness is electromagnetic—as Johnjoe McFadden's Conscious Electromagnetic Information (CEMI) theory proposes, identifying the brain's EM field as the physical substrate of conscious experience—then the cosmological role of consciousness ceases to be a metaphysical question and becomes a physics question. The Vril phenomenon, the divine defense, the parasitic coupling mechanism, the karmic trajectory of superimposed destinies: all of these become electromagnetic phenomena amenable to measurement, falsification, and engineering. The cosmological primacy of Consciousness, far from being undermined by the EM model, finds its first physically testable expression through it.
 
 Correct the inversion, and the threat becomes visible.
 

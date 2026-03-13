@@ -30,11 +30,6 @@ tags:
 
 # The Vatican Connection: The Infiltrated Church
 
----
-
-*"Under NO circumstance must humanity allow Christianity to be replaced with Luciferianism!"*
-
----
 
 ## The Paradox of the Vatican
 
@@ -89,6 +84,8 @@ The source identifies two additional structures as relevant:
 **The Capuchin Crypt (Rome)**: Located beneath the Church of Santa Maria della Concezione dei Cappuccini, this crypt contains the bones of approximately 3,700 Capuchin friars, arranged into elaborate decorative patterns—chandeliers, wall panels, and arches composed entirely of human remains. A plaque at the entrance reads: "What you are now, we once were; what we are now, you shall be."
 
 Both structures are official Catholic sites, sanctioned by the institutional Church. Their existence—human remains arranged as architectural elements in spaces of worship—is not hidden or denied. It is presented openly, as if normal. The framework established in this book suggests that this normalization of human remains as decorative material may be more than aesthetic tradition.
+
+Under the electromagnetic ecology model, the Vatican's institutional architecture—both physical and organizational—is consistent with an institution that either knowingly or unknowingly serves the EM ecology's concealment. The physical architecture (massive stone and marble construction, underground crypts, resonant dome chambers) creates natural electromagnetic environments—low-frequency standing waves, attenuation of external EM signals—that parallel the conditions documented in Chapter 23's analysis of Egyptian temple design. The organizational architecture (hierarchical consciousness management through ritual, chant, incense, and coordinated prayer states) systematically induces altered brainwave patterns in large congregations—precisely the theta-dominant states that the EM ecology model identifies as coupling-vulnerable. Whether this represents deliberate design or institutional evolution toward a captured function, the result is the same: an infrastructure optimized for EM-mediated entity interaction, operating at civilizational scale.
 
 ---
 

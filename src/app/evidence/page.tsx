@@ -3,7 +3,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Evidence Hub — The Vril Dossier",
   description:
-    "Primary sources, peer-reviewed research, court documents, and declassified intelligence files referenced in The Vril Dossier.",
+    "Primary sources, peer-reviewed plasma physics, consciousness research, court documents, and declassified intelligence files supporting the electromagnetic ecology hypothesis.",
 };
 
 const sections = [
@@ -144,13 +144,14 @@ export default function EvidencePage() {
     <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <h1 className="text-4xl font-bold text-white mb-2">Evidence Hub</h1>
       <p className="text-muted-foreground mb-4 font-serif max-w-3xl">
-        Every cross-reference in The Vril Dossier is grounded in publicly
-        available sources. This page collects the primary materials so you can
-        evaluate the claims yourself.
+        The electromagnetic ecology hypothesis is built on convergent evidence
+        from seven independent domains. This page collects the primary materials
+        so you can evaluate each line of evidence yourself.
       </p>
       <p className="text-muted text-sm mb-12 font-mono">
-        Sources include: peer-reviewed science, court records, declassified
-        intelligence files, and mainstream investigative journalism.
+        Sources include: peer-reviewed plasma physics, EM consciousness research,
+        geomagnetic data, court records, declassified intelligence files, and
+        mainstream investigative journalism.
       </p>
 
       <div className="space-y-8">

@@ -115,7 +115,7 @@ If both accounts describe the same group, then the timeline becomes coherent:
 
 3. **Post-Reset**: The bloodline families establish the current centralized system—the one we live in—which is designed to serve the Vril's interests: biological feedstock (children, animals) delivered through institutional channels, geological resources (methane, sulfur) exploited through industrial extraction, and human awareness suppressed through controlled information systems.
 
-This is speculative reconstruction. Marshall does not lay out this timeline explicitly. But the convergence between his claims about the Vril-human alliance and the Tartarian hypothesis about civilizational erasure produces a framework that is at least internally consistent—a story that, if true, would explain why we live in the kind of civilization we live in.
+This is speculative reconstruction. Marshall does not lay out this timeline explicitly. But the convergence between his claims about the Vril-human alliance and the Tartarian hypothesis about civilizational erasure produces a framework that is at least internally consistent—a story that, if true, would explain why we live in the kind of civilization we live in. Under the EM ecology model, these reset cycles align with the Great Year framework explored in Chapter 33: precession-driven shifts in Earth's electromagnetic environment periodically alter the conditions for EM entity activity, and the "resets" correspond to moments when the EM ecology reaches a critical threshold — moments when entity influence is either consolidated or disrupted, depending on which side controls the transition.
 
 ---
 

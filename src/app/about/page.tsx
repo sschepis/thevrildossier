@@ -4,7 +4,7 @@ import Link from "next/link";
 export const metadata: Metadata = {
   title: "About — The Vril Dossier",
   description:
-    "About The Vril Dossier: methodology, sources, and how to read this investigation.",
+    "About The Vril Dossier: the electromagnetic ecology hypothesis, convergence methodology, and how to read this investigation.",
 };
 
 export default function AboutPage() {
@@ -15,33 +15,46 @@ export default function AboutPage() {
       <div className="prose">
         <h2>What This Book Is</h2>
         <p>
-          <em>The Vril Dossier</em> is a comprehensive investigation that
-          presents the testimony of Donald Marshall alongside verifiable public
-          records, peer-reviewed science, court documents, declassified
-          intelligence files, and mainstream investigative journalism.
+          <em>The Vril Dossier</em> is a comprehensive investigation built on
+          a single scientific hypothesis: Earth&apos;s electromagnetic resonance
+          cavity — the Schumann-bounded shell between surface and ionosphere —
+          hosts a coherent electromagnetic ecology. The book synthesizes
+          peer-reviewed plasma physics, consciousness research, geomagnetic data,
+          declassified intelligence files, court documents, and convergent
+          testimony to construct and test this model.
         </p>
         <p>
           No claim is presented as proven fact unless independently verified.
           Where verification is impossible, the text states this explicitly.
         </p>
 
-        <h2>Methodology</h2>
-        <p>The reader is invited to evaluate three things:</p>
+        <h2>Methodology: Convergence Science</h2>
+        <p>The investigation rests on three peer-reviewed scientific pillars:</p>
         <ol>
-          <li>The internal consistency of the testimony itself</li>
           <li>
-            The degree to which verifiable evidence aligns with the claims
+            <strong>Tsytovich (2007)</strong> — Plasma self-organization: inorganic
+            dust-plasma structures spontaneously develop metabolism, reproduction,
+            and information storage
           </li>
           <li>
-            The epistemological challenge of investigating a system that, by its
-            own description, is designed to be invisible
+            <strong>Persinger (2014)</strong> — Geomagnetic consciousness coupling:
+            the Schumann resonance band correlates with human brain-state
+            modulation and anomalous cognition
+          </li>
+          <li>
+            <strong>McFadden (2020)</strong> — CEMI theory: consciousness is
+            identical to the brain&apos;s endogenous electromagnetic field,
+            meaning any sufficiently coherent EM field is a candidate substrate
+            for awareness
           </li>
         </ol>
         <p>
-          Each chapter cross-references specific claims against independently
-          verifiable sources. These cross-references are collected in the{" "}
-          <Link href="/evidence">Evidence Hub</Link> with direct links to
-          primary materials.
+          Seven independent lines of evidence — plasma physics, electromagnetic
+          consciousness, geomagnetic anomaly data, ancient cosmological texts,
+          whistleblower testimony, demographic patterns, and declassified
+          records — are cross-referenced against primary sources and collected
+          in the <Link href="/evidence">Evidence Hub</Link> with direct links
+          to primary materials.
         </p>
 
         <h2>Structure</h2>
@@ -49,8 +62,8 @@ export default function AboutPage() {
         <ul>
           <li>
             <strong>Part I: The Premise and the Witness</strong> — Donald
-            Marshall&apos;s testimony, the Vril species taxonomy, and the droning
-            mechanism
+            Marshall&apos;s testimony, the EM entity taxonomy, and the
+            field-coherence parasitization mechanism
           </li>
           <li>
             <strong>Part II: The Infrastructure</strong> — Cloning technology,
@@ -83,9 +96,9 @@ export default function AboutPage() {
             research program
           </li>
           <li>
-            <strong>Part IX: The Deeper Reality</strong> — Smokeless fire,
-            the container problem, the resonance space, the industrial
-            invasion, and the Great Year
+            <strong>Part IX: The Electromagnetic Ecology</strong> — Smokeless
+            fire as plasma description, the container problem, the resonance
+            space, the industrial invasion, and the Great Year
           </li>
           <li>
             <strong>Part X: Appendices</strong> — Geological survey data,
@@ -104,10 +117,11 @@ export default function AboutPage() {
 
         <h2>Disclaimer</h2>
         <p>
-          The documented facts alone—Jeffrey Epstein&apos;s network, MKUltra&apos;s
-          verified programs, elite impunity, unexplained disappearances,
-          geological anomalies, architectural mysteries—are sufficient to warrant
-          serious investigation regardless of one&apos;s position on the Vril
+          The documented facts alone — Jeffrey Epstein&apos;s science network,
+          MKUltra&apos;s verified programs, peer-reviewed plasma self-organization,
+          Schumann resonance anomalies, geological cavities, and demographic
+          collapse patterns — are sufficient to warrant serious investigation
+          regardless of one&apos;s position on the electromagnetic ecology
           hypothesis itself.
         </p>
         <p>

@@ -14,15 +14,11 @@ tags:
   - "avatar"
   - "divine-defense"
 ---
+
 # Chapter 23
 
 # The Amun Protocol: Ancient Egypt and the War for Human Consciousness
 
----
-
-*"Ancient Egypt was a 'droning' society. The Vril type 3 reptiles were the pinnacle of leadership in ancient Egyptian society... The Vril type 3 reptiles controlled the civilisation of ancient Egypt from 'behind the scenes.'"*
-
----
 
 ## A Name That Tells You Everything
 
@@ -108,6 +104,8 @@ The Amun priesthood controlled:
 - The annual Opet Festival, during which the Pharaoh's divine authority was ritually renewed—by the priesthood
 
 In functional terms, the Amun priesthood was the intermediary layer between the Pharaoh and the "hidden" entity he served. Whoever controlled the priesthood controlled access to the god. And whoever controlled access to the god controlled Egypt.
+
+Under the electromagnetic ecology model, Amun's defining epithet—"the Hidden One"—maps with precision onto the concept of an invisible, pervasive force that operates through intermediaries rather than direct manifestation. Egyptian temple architecture reinforces this reading: the granite-lined inner sanctuaries at Karnak, the subterranean chambers, and the massive stone enclosures create natural electromagnetic amplification zones—Faraday cage-like environments where specific EM frequencies would be concentrated and external signals attenuated. Whether the Amun priesthood understood this in electromagnetic terms or not, they built and operated within structures optimized for EM-mediated entity interaction.
 
 ---
 

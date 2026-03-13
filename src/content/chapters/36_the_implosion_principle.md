@@ -86,6 +86,8 @@ The key word is *polarity* — dipolarity. Nature operates through two poles: pr
 
 In the language of Chapter 35: the entropy-discharging half of the observer has been developed into an entire technological civilization. The entropy-collapsing half has been left unexplored — or, as the evidence will show, actively suppressed.
 
+Schauberger's implosion principle, with its emphasis on natural vortex dynamics and living energy, aligns directly with the electromagnetic ecology model that serves as this book's primary hypothesis. Self-organizing vortex phenomena are not limited to water — they are the fundamental mechanism by which electromagnetic fields organize into coherent, persistent structures (plasma vortices, ball lightning, the helical structures documented in Tsytovich's plasma experiments). Implosion technology represents an approach to energy that works WITH rather than against the natural EM ecology — harnessing the same centripetal, self-organizing dynamics through which electromagnetic consciousness-structures maintain their coherence. The suppression of this technology is, under the EM ecology model, the suppression of a physics that would make the electromagnetic nature of both consciousness and entity phenomena visible and exploitable by the general population.
+
 ---
 
 ## Water at Four Degrees

@@ -22,13 +22,6 @@ tags:
 
 # The Research Program: Testable Claims, Convergent Evidence, and the Path to Resolution
 
----
-
-*"Nobody believes it, so nobody investigates it."*
-
-— Chapter 19
-
----
 
 ## The Investigable Book
 
@@ -98,6 +91,8 @@ Before proposing the research program, it is necessary to establish what is alre
 ---
 
 ## The Twelve Investigations
+
+Under the electromagnetic ecology model, the research program should prioritize EM measurements as the most immediately testable predictions. Schumann resonance anomaly monitoring, EEG theta-band correlation studies, and geomagnetic field mapping at reported encounter sites represent low-cost, high-yield investigations that could produce falsifiable results within months rather than years. If the EM ecology hypothesis is correct, the signature is already present in existing geophysical and neurological datasets—it has simply never been searched for with the right analytical framework.
 
 The following twelve research projects, listed in descending order of testability-to-effort ratio, constitute a program that would substantively advance or falsify the book's central claims.
 

@@ -22,10 +22,6 @@ tags:
 
 # The WingMakers Convergence: Independent Corroboration from the Mythological Register
 
-# Chapter 34
-
-# The WingMakers Convergence: Independent Corroboration from the Mythological Register
-
 ---
 
 *"The terrestrial storyline is based on a technique called Sensory Bi-Location, which is similar to remote viewing in concept... The cosmological scope of the story is mythological, while the more terrestrial elements contained in the Neruda Interviews are based on my experiences with SBL."*
@@ -144,6 +140,8 @@ The Fifth Interview describes humans as "biological hosts of infinite beings" �
 This book documents the same architecture through different evidence. The droning protocol (Chapter 3) destroys human consciousness and replaces it with Vril consciousness — a literal occupation of the biological host. The "Megadeth deterrent" (Chapter 10) traps consciousness in infinite loops of death within clone bodies. The container problem (Chapter 30) synthesizes Marshall's testimony, Lazar's S-4 briefing documents, and UAP disclosure language to arrive at the same conclusion: **humans are containers, and something wants in**.
 
 Both frameworks describe humanity as a species whose authentic consciousness is under systematic attack by non-human intelligence. The WingMakers describe the attack as programmatic — embedded in the structure of perceived reality itself. The Dossier describes it as biological and electromagnetic — parasitic organisms and plasma entities coupling with human brain-fields. The mechanism differs. The architecture is identical.
+
+Under the electromagnetic ecology model that serves as this book's primary hypothesis, the WingMakers' explicit references to "electromagnetic parasitism" are not metaphorical but represent the most precise description of the phenomenon in any single source. Where the Dossier's framework arrives at the EM ecology through convergent evidence—geological, biological, neurological—the WingMakers materials name it directly: consciousness suppression operating through electromagnetic coupling. This chapter therefore represents the convergence of independent testimony with the book's primary hypothesis—two entirely separate investigative streams arriving at the same electromagnetic mechanism through different methods.
 
 ### Domain 2: The Ancient Deception
 

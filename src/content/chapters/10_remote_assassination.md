@@ -56,6 +56,8 @@ Clone-based assassination, as Marshall describes it, produces *nothing*. The wea
 
 "It's undetectable, right? As long as they have a clone of you, they can kill you."
 
+Under the EM ecology model, this assassination mechanism operates through electromagnetic field weaponization — directing coherent EM patterns to override a target's neural signature. The "clone-body feedback loop" is, in this framework, an EM resonance channel: once a coupling frequency is established between the entity-controlled EM field and the target's bioelectric signature, that channel can be used to impose lethal autonomic disruption at any distance, producing cardiac arrest or cerebrovascular failure that is indistinguishable from natural pathology.
+
 ---
 
 ## The Deterrent Effect
@@ -86,7 +88,7 @@ Marshall describes this as the equivalent of hell—not as a metaphysical concep
 
 "It's like, I guess, going to hell basically."
 
-The Megadeth deterrent is, per Marshall, the reason that no one at the cloning station talks. The celebrities, the politicians, the military officers, the intelligence operatives—all of them. Everyone at the station knows that the consequences of exposure extend beyond death into an eternity of technologically sustained suffering.
+The Megadeth deterrent is, per Marshall, the reason that no one at the cloning station talks. Not the celebrities, not the politicians, not the military officers, not the intelligence operatives. Everyone at the station knows that the consequences of exposure extend beyond death—they extend into an eternity of technologically sustained suffering.
 
 "Even though, in the past, when they have tried to do this to someone, they get bored of it after a time, right? You know, the person's screaming and stuff. It's just the same thing over and over again, so then eventually they stop. But they make people watch sometimes to use that as a deterrent."
 

@@ -81,13 +81,13 @@ The deflection works as follows:
 
 4. **The actual parasites are protected**: each wave of antisemitic violence simultaneously destroys people who may have had genuine knowledge of the system (through proximity to the communities being targeted), makes any future discussion of "hidden controllers" taboo by association with antisemitism, and generates massive trauma and displacement that can be exploited for further consolidation of power.
 
-The mechanism is self-reinforcing. Each cycle of misdirected violence makes the next cycle more likely by deepening the taboo around discussing the actual pattern.
+The mechanism is self-reinforcing. Each cycle of misdirected violence makes the next cycle more likely by deepening the taboo around discussing the actual pattern. Under the EM ecology model, the scapegoat engine serves a precise function: it redirects human attention away from the actual source of interference — electromagnetic entities operating through bioelectric coupling — toward visible human targets (ethnic and religious groups), ensuring that the EM ecology itself remains unexamined even as its effects are widely perceived.
 
 ---
 
 ## The Holocaust as a Controlled Demolition of Awareness
 
-The Holocaust was the most systematic, industrialized, and deliberate genocide in recorded history. Six million Jewish people were murdered by the Nazi regime and its collaborators across occupied Europe between 1941 and 1945. It is documented fact, verified by physical evidence, eyewitness testimony, the Nazis' own records, and the Nuremberg trials.
+The Holocaust was the most systematic, industrialized, and deliberate genocide in recorded history. Six million Jewish people were murdered by the Nazi regime and its collaborators across occupied Europe between 1941 and 1945. This is not metaphor, not allegory, not exaggeration. It is documented fact, verified by physical evidence, eyewitness testimony, the Nazis' own records, and the Nuremberg trials.
 
 In the Vril framework, the Holocaust was not a spontaneous eruption of hatred. It was the most extreme implementation of the deflection mechanism—a controlled demolition of awareness at a civilizational scale.
 
@@ -115,7 +115,7 @@ This is not an argument against the taboo. The taboo exists for legitimate reaso
 
 The challenge is to maintain the taboo's protective function while dismantling its shielding function—to find a way to discuss the observable pattern of parasitic infiltration without attributing it to any human ethnic group.
 
-The Vril hypothesis attempts exactly this. By identifying the source of the pattern as a non-human species, it removes the ethnic attribution entirely. The "hidden hand" belongs to no human ethnicity or religion. It is biological, parasitic, and operates *across* all human categories, exploiting ethnic and religious divisions as camouflage.
+The Vril hypothesis attempts exactly this. By identifying the source of the pattern as a non-human species, it removes the ethnic attribution entirely. The "hidden hand" is not Jewish, not Christian, not Muslim, not any human category. It is biological. It is parasitic. And it operates *across* all human categories, exploiting ethnic and religious divisions as camouflage.
 
 ---
 

@@ -21,10 +21,6 @@ tags:
 
 # The Mathematics of Liberation: Consciousness, Prime Resonance, and the Inevitability of Coherence
 
-# Chapter 35
-
-# The Mathematics of Liberation: Consciousness, Prime Resonance, and the Inevitability of Coherence
-
 ---
 
 *"Observation doesn't store information at all. It destroys it. Or better: it resolves it. Out of a field of uncertainty, a single outcome appears. The rest is gone, collapsed back into nothing. Observation is a furnace — information goes in, certainty comes out, but the spread of possibilities is erased."*
@@ -269,6 +265,8 @@ The mathematical framework provides the formal basis for the defense mechanisms 
 Prayer, in the coherent integral framework, is a resonance operation. The individual observer couples its resonance field to the Source field — the ground state of the consciousness substrate. This coupling shifts the observer's eigenstate toward primes. The effect is measurable: research on the physiological correlates of prayer shows reduced cortisol, increased heart-rate variability (coherence), enhanced immune function, and altered brainwave patterns (shift toward alpha and theta frequencies — low-entropy states).
 
 Prayer is resonance coupling to the substrate from which the observer emerged — direct, immediate, operational. The "answers" to prayer are the natural consequences of eigenstate realignment — when the observer's resonance pattern shifts, the reality the observer collapses into coherence shifts with it.
+
+Under the EM ecology model, this has a precise physical basis: liberation from electromagnetic entity influence is not mysticism but electromagnetic hygiene. Consciousness training that shifts dominant brainwave frequencies away from theta (centered at 7.83 Hz — the fundamental Schumann resonance) reduces the coupling bandwidth between the human brain-field and the planetary EM cavity in which the parasitic entities operate. Prayer, meditation, and the coherent integral practices shift brainwave dominance toward alpha (8–12 Hz) and gamma (30–100 Hz) coherence — frequencies that are mathematically off-resonance with the Schumann fundamental and its harmonics. The mathematics of decoupling is straightforward: consciousness states that are orthogonal to the coupling frequency cannot sustain parasitic resonance. This is electromagnetic hygiene — as practical and as physical as washing one's hands.
 
 ### Meditation
 
